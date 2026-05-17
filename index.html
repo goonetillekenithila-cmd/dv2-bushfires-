@@ -42,11 +42,16 @@
     </section>
 
     <section class="section">
-      <div class="section-header">
-        <div class="section-number">02 — When bushfires strike</div>
-        <h2>The seasonality and rhythm of fire</h2>
-        <p>Bushfires aren't random. They follow a season, and that season is getting longer.</p>
-      </div>
+        <div class="section-header">
+            <div class="section-number">02 — When bushfires strike</div>
+            <h2>The seasonality and rhythm of fire</h2>
+            <p>Bushfire activations cluster in the southern summer — October through February. Years like 2012, 2019, and 2023 saw spikes far beyond the baseline; recent years suggest the season may be intensifying.</p>
+        </div>
+        <div class="chart-row">
+            <div class="chart-container">
+                <div id="seasonality_heatmap"></div>
+            </div>
+        </div>
     </section>
 
     <section class="section">
@@ -81,9 +86,9 @@
         <a href="https://data.gov.au/data/dataset/drfa-activation-history-by-lga">data.gov.au</a>.
       </p>
       <p>
-        Local Government Area boundaries, derived from Australian Bureau of Statistics 2016 data,
-        published as TopoJSON by Michael Byrne on
-        <a href="https://gist.github.com/MichaelByrneAU/5d6e5ed6aa8cbb7078b017c7eeaec7e2">GitHub</a>.
+         Australian state and territory boundaries, derived from Australian Bureau of Statistics 2016 boundary data via
+        <a href="https://gist.github.com/MichaelByrneAU/5d6e5ed6aa8cbb7078b017c7eeaec7e2">Michael Byrne's TopoJSON</a>,
+        simplified for this project.
       </p>
       <p style="margin-top: 20px;">
         Created by Nithila Goonetilleke for FIT2179 Data Visualisation, Monash University, 2026.

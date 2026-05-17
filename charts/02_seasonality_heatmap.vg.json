@@ -1,0 +1,48 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 380,
+  "background": "transparent",
+  "data": {"url": "data/heatmap_data.csv"},
+  "mark": {"type": "rect", "stroke": "white", "strokeWidth": 1.5},
+  "encoding": {
+    "x": {
+      "field": "date",
+      "timeUnit": "year",
+      "type": "ordinal",
+      "title": null,
+      "axis": {"labelFontSize": 12, "labelAngle": 0, "format": "%Y"}
+    },
+    "y": {
+      "field": "date",
+      "timeUnit": "month",
+      "type": "ordinal",
+      "title": null,
+      "axis": {"labelFontSize": 12, "format": "%b"}
+    },
+    "color": {
+      "field": "events",
+      "type": "quantitative",
+      "scale": {
+        "type": "threshold",
+        "domain": [1, 3, 6, 9],
+        "range": ["#f5ebe0", "#f4b78c", "#e07a4b", "#c0392b", "#7a1d11"]
+      },
+      "legend": {
+        "title": "New bushfire events",
+        "orient": "right",
+        "labelFontSize": 11,
+        "titleFontSize": 12
+      }
+    },
+    "tooltip": [
+      {"field": "year", "type": "ordinal", "title": "Year"},
+      {"field": "date", "timeUnit": "month", "type": "ordinal", "title": "Month", "format": "%B"},
+      {"field": "events", "type": "quantitative", "title": "New events"}
+    ]
+  },
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"domain": false, "ticks": false, "labelPadding": 8}
+  }
+}
