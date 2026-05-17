@@ -1,0 +1,98 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: #1a1a1a;
+  background-color: #f5f2ed;
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: 700;
+  margin: 0 0 6px 0;
+  color: #1a1a1a;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 700;
+  margin: 0 0 8px 0;
+  color: #1a1a1a;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0 0 6px 0;
+  color: #1a1a1a;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #444;
+  margin: 0 0 12px 0;
+}
+
+.subtitle {
+  font-size: 18px;
+  color: #777;
+  margin: 0 0 0 0;
+  font-weight: 400;
+}
+
+.section-number {
+  font-size: 14px;
+  font-weight: 500;
+  color: #c0392b;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.page {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+.section {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 40px;
+  margin-bottom: 32px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.section-header {
+  margin-bottom: 24px;
+}
+
+.chart-row {
+  display: block;
+  width: 100%;
+}
+
+.chart-container {
+  display: block;
+  width: 100%;
+  min-width: 0;
+}
+
+.chart-container > div {
+  width: 100%;
+}
+
+.metadata {
+  font-size: 13px;
+  color: #888;
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
+  margin-top: 40px;
+}
+
+.metadata a {
+  color: #888;
+  text-decoration: underline;
+}

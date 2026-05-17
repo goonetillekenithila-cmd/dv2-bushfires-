@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body style="background: white; padding: 40px;">
+  <h1>Chart test</h1>
+  <div id="vis" style="width: 1000px; height: 600px; border: 2px solid red;"></div>
+  <script>
+    vegaEmbed("#vis", "charts/01_opening_hook.vg.json").catch(err => {
+      document.body.innerHTML += "<pre style='color:red'>ERROR: " + err.message + "</pre>";
+      console.error(err);
+    });
+  </script>
+</body>
+</html>

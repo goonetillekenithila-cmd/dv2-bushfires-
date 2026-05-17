@@ -1,0 +1,21 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {"text": "Australian fire seasons — sample data"},
+  "width": 400,
+  "height": 200,
+  "data": {
+    "values": [
+      {"year": "2002-03", "hectares": 1500000},
+      {"year": "2006-07", "hectares": 1200000},
+      {"year": "2009-10", "hectares": 430000},
+      {"year": "2019-20", "hectares": 24000000},
+      {"year": "2024-25", "hectares": 800000}
+    ]
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "year", "type": "ordinal", "title": "Fire season"},
+    "y": {"field": "hectares", "type": "quantitative", "title": "Hectares burnt"},
+    "color": {"value": "#c0392b"}
+  }
+}

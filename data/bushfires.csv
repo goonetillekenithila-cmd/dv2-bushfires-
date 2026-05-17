@@ -1,0 +1,889 @@
+lga,state,event_name,agrn,cat_a,cat_b,cat_c,cat_d,severity,start_date,year
+Albury,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Armidale,New South Wales,Armidale bushfire: 20 October 2012,507,0,0,0,0,unknown,2012-10-20,2012
+Armidale,New South Wales,Northern NSW Bushfires: 11 February 2019 onwards,843,1,1,0,0,A/B,2019-02-11,2019
+Armidale,New South Wales,Armidale (Melrose) Bushfire: 1 December 2018 onwards,847,1,1,0,0,A/B,2018-12-01,2018
+Armidale,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Armidale,New South Wales,AGRN 1071 - North Eastern NSW Bushfires (21 August 2023 onwards),1071,0,1,0,0,A/B,2023-08-21,2023
+Armidale,New South Wales,AGRN 1112 - Armidale NSW Bushfires (9 December - 23 December 2023),1112,0,1,0,0,A/B,2023-12-09,2023
+Ballina,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Bathurst,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Bathurst,New South Wales,Central Ranges bushfires: from 19 January 2014,612,0,0,0,0,unknown,2014-01-19,2014
+Bathurst,New South Wales,Bathurst Bushfire: from 14 January 2017,749,0,0,0,0,unknown,2017-01-14,2017
+Bathurst,New South Wales,NSW Central West Bushfires: 9 February 2018 onwards,804,1,1,0,0,A/B,2018-02-09,2018
+Bathurst,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,1,1,0,0,A/B,2023-03-06,2023
+Bathurst,New South Wales,AGRN 1193 - Bathurst and Lithgow NSW Bushfire (23 December 2024 - 11 January 2025),1193,0,1,0,0,A/B,2024-12-23,2024
+Bega Valley,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Bega Valley,New South Wales,Bega Bushfire: 18 March 2018 onward,798,1,1,0,0,A/B,2018-03-18,2018
+Bega Valley,New South Wales,Bega Valley and Eurobodalla bushfires: 15 August 2018 onwards,820,1,1,0,0,A/B,2018-08-15,2018
+Bega Valley,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Bega Valley,New South Wales,AGRN 1070 - Bega Valley NSW Bushfires (3 October 2023 onwards),1070,1,1,0,0,A/B,2023-10-03,2023
+Bega Valley,New South Wales,AGRN 1263 - Eurobodalla and Bega Valley NSW Bushfire (from 7 January 2026),1263,0,1,0,0,A/B,2026-01-07,2026
+Bellingen,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Berrigan,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Blacktown,New South Wales,Western Sydney bushfires: from 10 September 2013,614,0,0,0,0,unknown,2013-09-10,2013
+Bland,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Bland,New South Wales,Bland Shire Bushfire: from 30 November 2016,748,0,0,0,0,unknown,2016-11-30,2016
+Blayney,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Blayney,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,0,1,0,0,A/B,2023-03-06,2023
+Blayney,New South Wales,AGRN 1055 - Western and North West NSW Bushfires (17 February 2023),1055,1,1,0,0,A/B,2023-02-17,2023
+Blue Mountains,New South Wales,New South Wales bushfire: 20 to 23 September 2011,477,0,0,0,0,unknown,2011-09-20,2011
+Blue Mountains,New South Wales,New South Wales bushfire: 24 to 25 October 2011,499,0,0,0,0,unknown,2011-10-24,2011
+Blue Mountains,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Blue Mountains,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Blue Mountains,New South Wales,Western Sydney bushfires: from 10 September 2013,614,0,0,0,0,unknown,2013-09-10,2013
+Blue Mountains,New South Wales,Blue Mountains bushfire: 1 November 2014,670,0,0,0,0,unknown,2014-11-01,2014
+Blue Mountains,New South Wales,Blue Mountains bushfire: 14 November 2014,671,0,0,0,0,unknown,2014-11-14,2014
+Blue Mountains,New South Wales,Blue Mountains Bushfire: 2 August 2015,706,0,0,0,0,unknown,2015-08-02,2015
+Blue Mountains,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Bogan,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Bogan,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,1,1,0,0,A/B,2023-03-06,2023
+Bourke,New South Wales,Bourke bushfire: 20 to 27 October 2012,505,0,0,0,0,unknown,2012-10-20,2012
+Bourke,New South Wales,Bushfire: 13 to 18 December 2012,572,0,0,0,0,unknown,2012-12-13,2012
+Brewarrina,New South Wales,Bourke bushfire: 20 to 27 October 2012,505,0,0,0,0,unknown,2012-10-20,2012
+Brewarrina,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Brewarrina,New South Wales,Bushfire: 13 to 18 December 2012,572,0,0,0,0,unknown,2012-12-13,2012
+Brewarrina,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,1,1,0,0,A/B,2023-03-06,2023
+Byron,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Byron,New South Wales,AGRN 1135 - Byron NSW Bushfire (14 October - 5 November 2023),1135,0,1,0,0,A/B,2023-10-14,2023
+Cabonne,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Cabonne,New South Wales,NSW Central West Bushfires: 9 February 2018 onwards,804,1,1,0,0,A/B,2018-02-09,2018
+Cabonne,New South Wales,NSW - Parkes and Cabonne (Curembenya) Bushfires(5 January 2019 onwards),853,1,1,0,0,A/B,2019-01-05,2019
+Cabonne,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,0,1,0,0,A/B,2023-03-06,2023
+Cabonne,New South Wales,AGRN 1055 - Western and North West NSW Bushfires (17 February 2023),1055,1,1,0,0,A/B,2023-02-17,2023
+Carrathool,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Carrathool,New South Wales,AGRN 1282 - Carrathool Shire Bushfire (6 - 18 February 2026),1282,0,1,0,0,A/B,2026-02-06,2026
+Central Coast,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Central Coast,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Central Coast,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Central Coast,New South Wales,AGRN 1229 - NSW Central Coast Bushfire (from 6 December 2025),1229,1,1,0,0,A/B,2025-12-06,2025
+Central Darling,New South Wales,Bourke bushfire: 20 to 27 October 2012,505,0,0,0,0,unknown,2012-10-20,2012
+Central Darling,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Central Darling,New South Wales,Bushfire: 13 to 18 December 2012,572,0,0,0,0,unknown,2012-12-13,2012
+Cessnock,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Cessnock,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Cessnock,New South Wales,Lower Hunter Bushfires: 05 November 2016,739,0,0,0,0,unknown,2016-11-05,2016
+Cessnock,New South Wales,Cessnock and Maitland Bushfire: from 18 January 2017,750,0,0,0,0,unknown,2017-01-18,2017
+Cessnock,New South Wales,Cessnock Bushfire: from 13 December 2016,752,0,0,0,0,unknown,2016-12-13,2016
+Cessnock,New South Wales,Cessnock Bushfire: 12 September 2017,770,1,1,0,0,A/B,2017-09-12,2017
+Cessnock,New South Wales,"NSW - Singleton, Cessnock and Muswellbrook Bushfires (13 January 2018 onwards)",803,1,1,0,0,A/B,2018-01-13,2018
+Cessnock,New South Wales,Cessnock and Port Stephens bushfires: 15 August 2018 onwards,819,1,1,0,0,A/B,2018-08-15,2018
+Cessnock,New South Wales,NSW - Port Stephens and Cessnock Bushfires (22 November 2018),842,1,1,0,0,A/B,2018-11-22,2018
+Cessnock,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Cessnock,New South Wales,AGRN 1090 - Lower Hunter NSW Bushfires (20 September to 9 October 2023),1090,0,1,0,0,A/B,2023-09-20,2023
+Cessnock,New South Wales,AGRN 1092 - Cessnock NSW Bushfires (14 December onwards),1092,1,1,0,0,A/B,2023-12-14,2023
+Cessnock,New South Wales,AGRN 1275 - Cessnock Bushfire (8 - 28 December 2025),1275,0,1,0,0,A/B,2025-12-08,2025
+Clarence Valley,New South Wales,Clarence Valley bushfire: 18 to 30 August 2012,521,0,0,0,0,unknown,2012-08-18,2012
+Clarence Valley,New South Wales,Clarence Valley bushfire: 6 to 17 September 2012,524,0,0,0,0,unknown,2012-09-06,2012
+Clarence Valley,New South Wales,Bushfire: 7 to 13 October 2012,528,0,0,0,0,unknown,2012-10-07,2012
+Clarence Valley,New South Wales,Clarence Valley bushfire: 20 October to 6 November 2012,560,0,0,0,0,unknown,2012-10-20,2012
+Clarence Valley,New South Wales,North Coast bushfires: from 9 October 2013,586,0,0,0,0,unknown,2013-10-09,2013
+Clarence Valley,New South Wales,Clarence Valley and Coffs Harbour bushfires: from 2 August 2014,639,0,0,0,0,unknown,2014-08-02,2014
+Clarence Valley,New South Wales,Clarence Valley and Glen Innes Severn bushfires: 14 August 2018 onwards,824,1,1,0,0,A/B,2018-08-14,2018
+Clarence Valley,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Clarence Valley,New South Wales,NSW North Coast Bushfires: Commencing 18 July 2019 onwards,880,1,1,0,0,A/B,2019-07-18,2019
+Clarence Valley,New South Wales,AGRN 1071 - North Eastern NSW Bushfires (21 August 2023 onwards),1071,0,1,0,0,A/B,2023-08-21,2023
+Clarence Valley,New South Wales,AGRN 1075 - Far North NSW Bushfires (13 October 2023 onwards),1075,1,1,0,0,A/B,2023-10-13,2023
+Clarence Valley,New South Wales,AGRN 1121 - Clarence Valley NSW Bushfire (21 January - 13 February 2024),1121,0,1,0,0,A/B,2024-01-21,2024
+Clarence Valley,New South Wales,AGRN 1235 - Clarence Valley NSW Bushfire (from 25 September - 28 October 2025),1235,0,1,0,0,A/B,2025-09-25,2025
+Cobar,New South Wales,Bourke bushfire: 20 to 27 October 2012,505,0,0,0,0,unknown,2012-10-20,2012
+Cobar,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Cobar,New South Wales,Bushfire: 13 to 18 December 2012,572,0,0,0,0,unknown,2012-12-13,2012
+Cobar,New South Wales,AGRN 1056 - Upper Lachlan Bushfires (16 March 2023 onwards),1056,0,1,0,0,A/B,2023-03-16,2023
+Coffs Harbour,New South Wales,North Coast bushfires: from 9 October 2013,586,0,0,0,0,unknown,2013-10-09,2013
+Coffs Harbour,New South Wales,Clarence Valley and Coffs Harbour bushfires: from 2 August 2014,639,0,0,0,0,unknown,2014-08-02,2014
+Coffs Harbour,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Coolamon,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Coolamon,New South Wales,Riverina/Southern Border bushfires: from 18 January 2014,611,0,0,0,0,unknown,2014-01-18,2014
+Coonamble,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Coonamble,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,1,1,0,0,A/B,2023-03-06,2023
+Coonamble,New South Wales,AGRN 1206 - NSW Walgett and Coonamble Bushfire (28 January -12 February 2025),1206,0,1,0,0,A/B,2025-01-28,2025
+Cootamundra-Gundagai,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Cootamundra-Gundagai,New South Wales,Riverina Highlands bushfires: from 18 January 2014,610,0,0,0,0,unknown,2014-01-18,2014
+Cootamundra-Gundagai,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Cootamundra-Gundagai,New South Wales,AGRN 1065 - Cootamundra-Gundagai Bushfires (25 January 2023 onwards),1065,0,1,0,0,A/B,2023-01-25,2023
+Cowra,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Cowra,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,0,1,0,0,A/B,2023-03-06,2023
+Cowra,New South Wales,AGRN 1055 - Western and North West NSW Bushfires (17 February 2023),1055,1,1,0,0,A/B,2023-02-17,2023
+Dubbo,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Dubbo,New South Wales,Dubbo and Mid-Western Regional Bushfire: from January 2017,746,0,0,0,0,unknown,2017-01-12,2017
+Dubbo,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,1,1,0,0,A/B,2023-03-06,2023
+Dubbo,New South Wales,AGRN 1230 - NSW Dubbo and Warrumbungle Bushfire (from 27 November 2025),1230,1,1,0,0,A/B,2025-11-27,2025
+Dungog,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Dungog,New South Wales,Lower Hunter Bushfires: 05 November 2016,739,0,0,0,0,unknown,2016-11-05,2016
+Dungog,New South Wales,"Mid Coast, Port Macquarie Hastings, Dungog and Upper Hunter bushfires: 23 September 2017",778,1,1,0,0,A/B,2017-09-23,2017
+Dungog,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Dungog,New South Wales,AGRN 1090 - Lower Hunter NSW Bushfires (20 September to 9 October 2023),1090,0,1,0,0,A/B,2023-09-20,2023
+Dungog,New South Wales,AGRN 1245 - Dungog NSW Bushfire: from 9 November 2025,1245,0,1,0,0,A/B,2025-11-09,2025
+Edward River,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Eurobodalla,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Eurobodalla,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Eurobodalla,New South Wales,Bega Valley and Eurobodalla bushfires: 15 August 2018 onwards,820,1,1,0,0,A/B,2018-08-15,2018
+Eurobodalla,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Eurobodalla,New South Wales,AGRN 1263 - Eurobodalla and Bega Valley NSW Bushfire (from 7 January 2026),1263,0,1,0,0,A/B,2026-01-07,2026
+Federation,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Federation,New South Wales,Riverina/Southern Border bushfires: from 18 January 2014,611,0,0,0,0,unknown,2014-01-18,2014
+Forbes,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Forbes,New South Wales,NSW bushfires: 23 November 2014,672,0,0,0,0,unknown,2014-11-23,2014
+Gilgandra,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Glen Innes Severn,New South Wales,Clarence Valley and Glen Innes Severn bushfires: 14 August 2018 onwards,824,1,1,0,0,A/B,2018-08-14,2018
+Glen Innes Severn,New South Wales,Glen Innes Severn (Highland Creek) Bushfire: 25 December 2018 onwards,851,1,1,0,0,A/B,2018-12-25,2018
+Glen Innes Severn,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Goulburn Mulwaree,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Goulburn Mulwaree,New South Wales,Southern Ranges Bushfires: from 17 January 2017,745,0,0,0,0,unknown,2017-01-17,2017
+Goulburn Mulwaree,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Greater Hume,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Greater Hume,New South Wales,Riverina/Southern Border bushfires: from 18 January 2014,611,0,0,0,0,unknown,2014-01-18,2014
+Greater Hume,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Griffith,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Gunnedah,New South Wales,Bushfire: 19 to 28 December 2012,567,0,0,0,0,unknown,2012-12-19,2012
+Gwydir,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Gwydir,New South Wales,Bushfire: 4 to 9 December 2012,573,0,0,0,0,unknown,2012-12-04,2012
+Gwydir,New South Wales,New England Area bushfires: from 19 November 2013,618,0,0,0,0,unknown,2013-11-19,2013
+Gwydir,New South Wales,"NSW - Tamworth, Uralla and Gwydir Bushfires (2 January 2018)",789,1,1,0,0,A/B,2018-01-02,2018
+Gwydir,New South Wales,Narrabri and Gwydir (Bobbiwaa Creek) Bushfire: 12 February 2018 onwards,809,1,1,0,0,A/B,2018-02-12,2018
+Gwydir,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Gwydir,New South Wales,AGRN 1053 - Gwydir and Narrabri NSW Bushfires (18 January 2023),1053,1,1,0,0,A/B,2023-01-18,2023
+Gwydir,New South Wales,"AGRN 1054 - Gwydir, Moree Plains and Narrabri NSW Bushfires (1 March 2023)",1054,1,1,0,0,A/B,2023-03-01,2023
+Gwydir,New South Wales,AGRN 1199 - NSW Narrabri and Gwydir Bushfire (27 January - 10 February 2025),1199,0,1,0,0,A/B,2025-01-27,2025
+Hawkesbury,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Hawkesbury,New South Wales,Western Sydney bushfires: from 10 September 2013,614,0,0,0,0,unknown,2013-09-10,2013
+Hawkesbury,New South Wales,Hawkesbury Bushfires: 11 December 2015,703,0,0,0,0,unknown,2015-12-11,2015
+Hawkesbury,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Hawkesbury,New South Wales,AGRN 1197 - Hawkesbury NSW Bushfires (5 - 16 January 2025),1197,0,1,0,0,A/B,2025-01-05,2025
+Hay,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Hilltops,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Hilltops,New South Wales,Bushfire: 18 to 23 December 2012,566,0,0,0,0,unknown,2012-12-18,2012
+Inverell,New South Wales,Northern NSW Bushfires: 11 February 2019 onwards,843,1,1,0,0,A/B,2019-02-11,2019
+Inverell,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Inverell,New South Wales,AGRN 1075 - Far North NSW Bushfires (13 October 2023 onwards),1075,1,1,0,0,A/B,2023-10-13,2023
+Inverell,New South Wales,AGRN 1114 - Inverell and Tenterfield NSW Bushfires (7-24 December 2023),1114,0,1,0,0,A/B,2023-12-07,2023
+Junee,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Junee,New South Wales,Riverina/Southern Border bushfires: from 18 January 2014,611,0,0,0,0,unknown,2014-01-18,2014
+Kempsey,New South Wales,Armidale bushfire: 20 October 2012,507,0,0,0,0,unknown,2012-10-20,2012
+Kempsey,New South Wales,Kempsey bushfire: 21 to 26 August 2012,523,0,0,0,0,unknown,2012-08-21,2012
+Kempsey,New South Wales,Bushfire: 6 to 10 December 2012,564,0,0,0,0,unknown,2012-12-06,2012
+Kempsey,New South Wales,Mid North Coast bushfires: from 5 November 2013,617,0,0,0,0,unknown,2013-11-05,2013
+Kempsey,New South Wales,Kempsey Bushfires: 05 November 2016,740,0,0,0,0,unknown,2016-11-05,2016
+Kempsey,New South Wales,NSW State-wide Bushfires: from 11 February 2017,742,0,0,0,0,unknown,2017-02-11,2017
+Kempsey,New South Wales,Kempsey Bushfire: 27 August 2017,771,1,1,0,0,A/B,2017-08-27,2017
+Kempsey,New South Wales,Kempsey and Port Macquarie-Hastings Bushfire: 5 December 2017 onwards,802,1,1,0,0,A/B,2017-12-05,2017
+Kempsey,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Kempsey,New South Wales,NSW North Coast Bushfires: Commencing 18 July 2019 onwards,880,1,1,0,0,A/B,2019-07-18,2019
+Kempsey,New South Wales,AGRN 1071 - North Eastern NSW Bushfires (21 August 2023 onwards),1071,0,1,0,0,A/B,2023-08-21,2023
+Kempsey,New South Wales,AGRN 1076 - Mid North NSW Bushfires (16 October 2023 onwards),1076,1,1,0,0,A/B,2023-10-16,2023
+Kempsey,New South Wales,AGRN 1237 - Kempsey NSW Bushfire ( 6 - 9 October 2025),1237,0,1,0,0,A/B,2025-10-06,2025
+Kiama,New South Wales,Kiama bushfire: 5 to 7 September 2012,531,0,0,0,0,unknown,2012-09-05,2012
+Ku-ring-gai,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Kyogle,New South Wales,Bushfire: 7 to 13 October 2012,528,0,0,0,0,unknown,2012-10-07,2012
+Kyogle,New South Wales,"NSW - Richmond Valley, Lismore and Kyogle bushfires (12 August 2018 onwards)",823,1,1,0,0,A/B,2018-08-12,2018
+Kyogle,New South Wales,Northern NSW Bushfires: 11 February 2019 onwards,843,1,1,0,0,A/B,2019-02-11,2019
+Kyogle,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Kyogle,New South Wales,NSW North Coast Bushfires: Commencing 18 July 2019 onwards,880,1,1,0,0,A/B,2019-07-18,2019
+Kyogle,New South Wales,AGRN 1075 - Far North NSW Bushfires (13 October 2023 onwards),1075,1,1,0,0,A/B,2023-10-13,2023
+Lachlan,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Lachlan,New South Wales,NSW bushfires: 23 November 2014,672,0,0,0,0,unknown,2014-11-23,2014
+Lake Macquarie,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Lake Macquarie,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Lake Macquarie,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Lake Macquarie,New South Wales,AGRN 1133 - Lake Macquarie NSW Bushfire (1 - 18 October 2023),1133,0,1,0,0,A/B,2023-10-01,2023
+Lake Macquarie,New South Wales,AGRN 1232 - NSW Lake Macquarie Bushfire (from 6 December 2025),1232,1,1,0,0,A/B,2025-12-06,2025
+Leeton,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Lismore,New South Wales,"NSW - Richmond Valley, Lismore and Kyogle bushfires (12 August 2018 onwards)",823,1,1,0,0,A/B,2018-08-12,2018
+Lismore,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Lithgow,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Lithgow,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Lithgow,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Lithgow,New South Wales,"Muswellbrook, Singleton and Lithgow bushfires: from 8 January 2014",630,0,0,0,0,unknown,2014-01-08,2014
+Lithgow,New South Wales,Lithgow bushfire: 12 February 2018 onwards,816,1,1,0,0,A/B,2018-02-12,2018
+Lithgow,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Lithgow,New South Wales,AGRN 1136 - Lithgow NSW Bushfire (11 - 17 November 2023),1136,0,1,0,0,A/B,2023-11-11,2023
+Lithgow,New South Wales,AGRN 1193 - Bathurst and Lithgow NSW Bushfire (23 December 2024 - 11 January 2025),1193,0,1,0,0,A/B,2024-12-23,2024
+Lithgow,New South Wales,AGRN 1239 - Lithgow and Mid-Western Regional NSW Bushfires (from 9 December 2025),1239,1,1,0,0,A/B,2025-12-09,2025
+Lithgow,New South Wales,AGRN 1246 - Lithgow NSW Bushfire (from 16 November 2025),1246,0,1,0,0,A/B,2025-11-16,2025
+Liverpool,New South Wales,Liverpool and Sutherland Bushfire: 14 April 2018 onwards,808,1,1,0,0,A/B,2018-04-14,2018
+Liverpool Plains,New South Wales,Bushfire: 19 to 28 December 2012,567,0,0,0,0,unknown,2012-12-19,2012
+Liverpool Plains,New South Wales,AGRN 1055 - Western and North West NSW Bushfires (17 February 2023),1055,1,1,0,0,A/B,2023-02-17,2023
+Lockhart,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Lockhart,New South Wales,Riverina/Southern Border bushfires: from 18 January 2014,611,0,0,0,0,unknown,2014-01-18,2014
+Lockhart,New South Wales,AGRN 1274 - Lockhart Bushfire (23 - 30 November 2025),1274,0,1,0,0,A/B,2025-11-23,2025
+Maitland,New South Wales,Lower Hunter Bushfires: 05 November 2016,739,0,0,0,0,unknown,2016-11-05,2016
+Maitland,New South Wales,Cessnock and Maitland Bushfire: from 18 January 2017,750,0,0,0,0,unknown,2017-01-18,2017
+Maitland,New South Wales,AGRN 1090 - Lower Hunter NSW Bushfires (20 September to 9 October 2023),1090,0,1,0,0,A/B,2023-09-20,2023
+Mid-Coast,New South Wales,Greater Taree and Port-Macquarie Hastings bushfire: 20 October to 9 November 2012,504,0,0,0,0,unknown,2012-10-20,2012
+Mid-Coast,New South Wales,Gloucester bushfire: 8 to 29 October 2012,525,0,0,0,0,unknown,2012-10-08,2012
+Mid-Coast,New South Wales,Gloucester bushfire: 17 to 21 December 2012,563,0,0,0,0,unknown,2012-12-17,2012
+Mid-Coast,New South Wales,Great Lakes: 5 to 10 December 2012,565,0,0,0,0,unknown,2012-12-05,2012
+Mid-Coast,New South Wales,Mid North Coast bushfires: from 26 September 2013,615,0,0,0,0,unknown,2013-09-26,2013
+Mid-Coast,New South Wales,Mid North Coast bushfires: from 5 November 2013,617,0,0,0,0,unknown,2013-11-05,2013
+Mid-Coast,New South Wales,Lower Hunter Bushfires: 05 November 2016,739,0,0,0,0,unknown,2016-11-05,2016
+Mid-Coast,New South Wales,NSW State-wide Bushfires: from 11 February 2017,742,0,0,0,0,unknown,2017-02-11,2017
+Mid-Coast,New South Wales,Mid Coast and Port Macquarie-Hastings Bushfires: 30 August 2017,772,1,1,0,0,A/B,2017-08-30,2017
+Mid-Coast,New South Wales,"Mid Coast, Port Macquarie Hastings, Dungog and Upper Hunter bushfires: 23 September 2017",778,1,1,0,0,A/B,2017-09-23,2017
+Mid-Coast,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Mid-Coast,New South Wales,NSW North Coast Bushfires: Commencing 18 July 2019 onwards,880,1,1,0,0,A/B,2019-07-18,2019
+Mid-Coast,New South Wales,AGRN 1076 - Mid North NSW Bushfires (16 October 2023 onwards),1076,1,1,0,0,A/B,2023-10-16,2023
+Mid-Coast,New South Wales,AGRN 1089 - Mid Coast NSW Bushfires (20 September - 6 October 2023),1089,0,1,0,0,A/B,2023-09-20,2023
+Mid-Coast,New South Wales,AGRN 1231 - NSW Mid Coast Bushfires (from 17 November 2025),1231,1,1,0,0,A/B,2025-11-17,2025
+Mid-Coast,New South Wales,AGRN 1272 - MidCoast Bushfire (27 January - 21 February 2026),1272,0,1,0,0,A/B,2026-01-27,2026
+Mid-Coast,New South Wales,AGRN 1273 - MidCoast Bushfire (29 December 2025 - 5 January 2026),1273,0,1,0,0,A/B,2025-12-29,2025
+Mid-Western,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Mid-Western,New South Wales,NSW State-wide Bushfires: from 11 February 2017,742,0,0,0,0,unknown,2017-02-11,2017
+Mid-Western,New South Wales,Dubbo and Mid-Western Regional Bushfire: from January 2017,746,0,0,0,0,unknown,2017-01-12,2017
+Mid-Western,New South Wales,Muswellbrook and Mid-Western Bushfires: 23 January 2018 onwards,807,1,1,0,0,A/B,2018-01-23,2018
+Mid-Western,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Mid-Western,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,1,1,0,0,A/B,2023-03-06,2023
+Mid-Western,New South Wales,AGRN 1077 - Mid-Western NSW Bushfires (17 October 2023 onwards),1077,1,1,0,0,A/B,2023-10-17,2023
+Mid-Western,New South Wales,AGRN 1083 - Mid-Western NSW Bushfires (2-10 October 2023),1083,0,1,0,0,A/B,2023-10-02,2023
+Mid-Western,New South Wales,AGRN 1139 - Mid-Western NSW Bushfire (6 - 16 December 2023),1139,0,1,0,0,A/B,2023-12-06,2023
+Mid-Western,New South Wales,AGRN 1196 - Mid-Western NSW Bushfires (27 December 2024 - 8 January 2025),1196,0,1,0,0,A/B,2024-12-27,2024
+Mid-Western,New South Wales,AGRN 1239 - Lithgow and Mid-Western Regional NSW Bushfires (from 9 December 2025),1239,1,1,0,0,A/B,2025-12-09,2025
+Mid-Western,New South Wales,AGRN 1244 - Mid-Western Regional NSW Bushfire (5 - 18 November 2025),1244,0,1,0,0,A/B,2025-11-05,2025
+Moree Plains,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Moree Plains,New South Wales,Bushfire: 4 to 9 December 2012,573,0,0,0,0,unknown,2012-12-04,2012
+Moree Plains,New South Wales,New England Area bushfires: from 19 November 2013,618,0,0,0,0,unknown,2013-11-19,2013
+Moree Plains,New South Wales,"AGRN 1054 - Gwydir, Moree Plains and Narrabri NSW Bushfires (1 March 2023)",1054,1,1,0,0,A/B,2023-03-01,2023
+Murray River,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Murrumbidgee,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Muswellbrook,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Muswellbrook,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Muswellbrook,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Muswellbrook,New South Wales,Muswellbrook and Singleton bushfires: from 10 October 2013,616,0,0,0,0,unknown,2013-10-10,2013
+Muswellbrook,New South Wales,"Muswellbrook, Singleton and Lithgow bushfires: from 8 January 2014",630,0,0,0,0,unknown,2014-01-08,2014
+Muswellbrook,New South Wales,"NSW - Singleton, Cessnock and Muswellbrook Bushfires (13 January 2018 onwards)",803,1,1,0,0,A/B,2018-01-13,2018
+Muswellbrook,New South Wales,Muswellbrook and Mid-Western Bushfires: 23 January 2018 onwards,807,1,1,0,0,A/B,2018-01-23,2018
+Muswellbrook,New South Wales,NSW - Singleton and Muswellbrook Bushfires (11 February 2019 onwards),867,1,1,0,0,A/B,2019-02-11,2019
+Muswellbrook,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Muswellbrook,New South Wales,AGRN 1091 Hunter NSW Bushfires (22 October - 5 November 2023),1091,0,1,0,0,A/B,2023-10-22,2023
+Muswellbrook,New South Wales,AGRN 1189 - Singleton and Muswellbrook NSW Bushfires (27 December 2024 - 18 January 2025),1189,0,1,0,0,A/B,2024-12-27,2024
+Muswellbrook,New South Wales,AGRN 1228 - Upper Hunter and Muswellbrook NSW Bushfires (from 26 November 2025),1228,1,1,0,0,A/B,2025-11-26,2025
+Muswellbrook,New South Wales,AGRN 1264 - Muswellbrook NSW Bushfire (27 December 2025 - 6 January 2026),1264,0,1,0,0,A/B,2025-12-27,2025
+Nambucca Valley,New South Wales,Bushfire: 6 to 10 December 2012,564,0,0,0,0,unknown,2012-12-06,2012
+Nambucca Valley,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Nambucca Valley,New South Wales,NSW North Coast Bushfires: Commencing 18 July 2019 onwards,880,1,1,0,0,A/B,2019-07-18,2019
+Nambucca Valley,New South Wales,AGRN 1071 - North Eastern NSW Bushfires (21 August 2023 onwards),1071,0,1,0,0,A/B,2023-08-21,2023
+Narrabri,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Narrabri,New South Wales,Bushfire: 4 to 9 December 2012,573,0,0,0,0,unknown,2012-12-04,2012
+Narrabri,New South Wales,New England Area bushfires: from 19 November 2013,618,0,0,0,0,unknown,2013-11-19,2013
+Narrabri,New South Wales,Narrabri Bushfire: 6 March 2015,681,0,0,0,0,unknown,2015-03-06,2015
+Narrabri,New South Wales,NSW State-wide Bushfires: from 11 February 2017,742,0,0,0,0,unknown,2017-02-11,2017
+Narrabri,New South Wales,Narrabri and Warrumbungle bushfire: 17 January 2018 onwards,799,1,1,0,0,A/B,2018-01-17,2018
+Narrabri,New South Wales,Narrabri and Gwydir (Bobbiwaa Creek) Bushfire: 12 February 2018 onwards,809,1,1,0,0,A/B,2018-02-12,2018
+Narrabri,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Narrabri,New South Wales,AGRN 1053 - Gwydir and Narrabri NSW Bushfires (18 January 2023),1053,1,1,0,0,A/B,2023-01-18,2023
+Narrabri,New South Wales,"AGRN 1054 - Gwydir, Moree Plains and Narrabri NSW Bushfires (1 March 2023)",1054,1,1,0,0,A/B,2023-03-01,2023
+Narrabri,New South Wales,AGRN 1093 - Narrabri NSW Bushfires (8 December 2023 onwards),1093,1,1,0,0,A/B,2023-12-08,2023
+Narrabri,New South Wales,AGRN 1199 - NSW Narrabri and Gwydir Bushfire (27 January - 10 February 2025),1199,0,1,0,0,A/B,2025-01-27,2025
+Narrandera,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Narromine,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Newcastle,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Newcastle,New South Wales,NSW - Newcastle (Kooragang Island) Bushfires: 5 January 2019 onwards,866,1,1,0,0,A/B,2019-01-05,2019
+Oberon,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Oberon,New South Wales,Central Ranges bushfires: from 19 January 2014,612,0,0,0,0,unknown,2014-01-19,2014
+Oberon,New South Wales,Oberon bushfires: from 10 October 2013,629,0,0,0,0,unknown,2013-10-10,2013
+Oberon,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Orange,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Orange,New South Wales,NSW Central West Bushfires: 9 February 2018 onwards,804,1,1,0,0,A/B,2018-02-09,2018
+Parkes,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Parkes,New South Wales,Bushfire: 9 to 15 December 2012,571,0,0,0,0,unknown,2012-12-09,2012
+Parkes,New South Wales,NSW bushfires: 23 November 2014,672,0,0,0,0,unknown,2014-11-23,2014
+Parkes,New South Wales,NSW - Parkes and Cabonne (Curembenya) Bushfires(5 January 2019 onwards),853,1,1,0,0,A/B,2019-01-05,2019
+Parkes,New South Wales,AGRN 1137 - Parkes NSW Bushfire (19 - 27 November 2023),1137,0,1,0,0,A/B,2023-11-19,2023
+Parkes,New South Wales,AGRN 1252 - Parkes NSW Bushfire (from 26 November 2025),1252,0,1,0,0,A/B,2025-11-26,2025
+Penrith,New South Wales,Western Sydney bushfires: from 10 September 2013,614,0,0,0,0,unknown,2013-09-10,2013
+Penrith,New South Wales,Penrith Bushfire: from 13 November 2016,744,0,0,0,0,unknown,2016-11-13,2016
+Penrith,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Port Macquarie-Hastings,New South Wales,Greater Taree and Port-Macquarie Hastings bushfire: 20 October to 9 November 2012,504,0,0,0,0,unknown,2012-10-20,2012
+Port Macquarie-Hastings,New South Wales,Port Macquarie Hastings bushfire: 4 to 13 October 2012,529,0,0,0,0,unknown,2012-10-04,2012
+Port Macquarie-Hastings,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Port Macquarie-Hastings,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Port Macquarie-Hastings,New South Wales,Mid North Coast bushfires: from 26 September 2013,615,0,0,0,0,unknown,2013-09-26,2013
+Port Macquarie-Hastings,New South Wales,Mid North Coast bushfires: from 5 November 2013,617,0,0,0,0,unknown,2013-11-05,2013
+Port Macquarie-Hastings,New South Wales,NSW State-wide Bushfires: from 11 February 2017,742,0,0,0,0,unknown,2017-02-11,2017
+Port Macquarie-Hastings,New South Wales,Mid Coast and Port Macquarie-Hastings Bushfires: 30 August 2017,772,1,1,0,0,A/B,2017-08-30,2017
+Port Macquarie-Hastings,New South Wales,"Mid Coast, Port Macquarie Hastings, Dungog and Upper Hunter bushfires: 23 September 2017",778,1,1,0,0,A/B,2017-09-23,2017
+Port Macquarie-Hastings,New South Wales,Kempsey and Port Macquarie-Hastings Bushfire: 5 December 2017 onwards,802,1,1,0,0,A/B,2017-12-05,2017
+Port Macquarie-Hastings,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Port Macquarie-Hastings,New South Wales,NSW North Coast Bushfires: Commencing 18 July 2019 onwards,880,1,1,0,0,A/B,2019-07-18,2019
+Port Macquarie-Hastings,New South Wales,AGRN 1076 - Mid North NSW Bushfires (16 October 2023 onwards),1076,1,1,0,0,A/B,2023-10-16,2023
+Port Macquarie-Hastings,New South Wales,AGRN 1262 - Port Macquarie-Hastings NSW Bushfire (from 19 -25 December 2025),1262,0,1,0,0,A/B,2025-12-19,2025
+Port Stephens,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Port Stephens,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Port Stephens,New South Wales,Lower Hunter Bushfires: 05 November 2016,739,0,0,0,0,unknown,2016-11-05,2016
+Port Stephens,New South Wales,NSW - Port Stephens bushfire (8 January 2018),795,1,1,0,0,A/B,2018-01-08,2018
+Port Stephens,New South Wales,Cessnock and Port Stephens bushfires: 15 August 2018 onwards,819,1,1,0,0,A/B,2018-08-15,2018
+Port Stephens,New South Wales,NSW - Port Stephens and Cessnock Bushfires (22 November 2018),842,1,1,0,0,A/B,2018-11-22,2018
+Port Stephens,New South Wales,AGRN 1090 - Lower Hunter NSW Bushfires (20 September to 9 October 2023),1090,0,1,0,0,A/B,2023-09-20,2023
+Port Stephens,New South Wales,AGRN 1279 - Port Stephens Bushfire (from 29 January - 5 February 2026),1279,0,1,0,0,A/B,2026-01-29,2026
+Queanbeyan-Palerang,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Queanbeyan-Palerang,New South Wales,Southern Ranges Bushfires: from 17 January 2017,745,0,0,0,0,unknown,2017-01-17,2017
+Queanbeyan-Palerang,New South Wales,Queanbeyan-Palerang Bushfire (Carwoola Bushfire): from 17 February 2017,747,0,0,0,0,unknown,2017-02-17,2017
+Queanbeyan-Palerang,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Richmond Valley,New South Wales,Clarence Valley bushfire: 6 to 17 September 2012,524,0,0,0,0,unknown,2012-09-06,2012
+Richmond Valley,New South Wales,Bushfire: 7 to 13 October 2012,528,0,0,0,0,unknown,2012-10-07,2012
+Richmond Valley,New South Wales,"NSW - Richmond Valley, Lismore and Kyogle bushfires (12 August 2018 onwards)",823,1,1,0,0,A/B,2018-08-12,2018
+Richmond Valley,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Richmond Valley,New South Wales,NSW North Coast Bushfires: Commencing 18 July 2019 onwards,880,1,1,0,0,A/B,2019-07-18,2019
+Richmond Valley,New South Wales,AGRN 1138 - Richmond Valley NSW Bushfire (4 - 15 December 2023),1138,0,1,0,0,A/B,2023-12-04,2023
+Shoalhaven,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Shoalhaven,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Shoalhaven,New South Wales,Shoalhaven Bushfire: 26 November 2015,700,0,0,0,0,unknown,2015-11-26,2015
+Shoalhaven,New South Wales,NSW - Shoalhaven bushfires (11 August 2018 onwards),818,1,1,0,0,A/B,2018-08-11,2018
+Shoalhaven,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Singleton,New South Wales,Singleton bushfire: 5 to 12 October 2012,530,0,0,0,0,unknown,2012-10-05,2012
+Singleton,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Singleton,New South Wales,Singleton bushfire: 20 to 26 October 2012,561,0,0,0,0,unknown,2012-10-20,2012
+Singleton,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Singleton,New South Wales,Muswellbrook and Singleton bushfires: from 10 October 2013,616,0,0,0,0,unknown,2013-10-10,2013
+Singleton,New South Wales,"Muswellbrook, Singleton and Lithgow bushfires: from 8 January 2014",630,0,0,0,0,unknown,2014-01-08,2014
+Singleton,New South Wales,Singleton Bushfire: from 19 February 2017,759,0,0,0,0,unknown,2017-02-19,2017
+Singleton,New South Wales,NSW - Singleton Bushfire (18 December 2017),792,1,1,0,0,A/B,2017-12-18,2017
+Singleton,New South Wales,"NSW - Singleton, Cessnock and Muswellbrook Bushfires (13 January 2018 onwards)",803,1,1,0,0,A/B,2018-01-13,2018
+Singleton,New South Wales,NSW - Singleton and Muswellbrook Bushfires (11 February 2019 onwards),867,1,1,0,0,A/B,2019-02-11,2019
+Singleton,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Singleton,New South Wales,AGRN 1099 - Singleton NSW Bushfires (11 September - 18 October 2023),1099,0,1,0,0,A/B,2023-09-11,2023
+Singleton,New South Wales,AGRN 1140 - Singleton NSW Bushfire (8 - 18 December 2023),1140,0,1,0,0,A/B,2023-12-08,2023
+Singleton,New South Wales,AGRN 1189 - Singleton and Muswellbrook NSW Bushfires (27 December 2024 - 18 January 2025),1189,0,1,0,0,A/B,2024-12-27,2024
+Singleton,New South Wales,AGRN 1191 - Singleton NSW Bushfires (16 -24 December 2024),1191,0,1,0,0,A/B,2024-12-16,2024
+Snowy Monaro,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Snowy Monaro,New South Wales,Snowy River and Cooma-Monaro bushfire: 5 to 7 September 2012,574,0,0,0,0,unknown,2012-09-05,2012
+Snowy Monaro,New South Wales,Cooma-Monaro bushfires: from 1 February 2014,631,0,0,0,0,unknown,2014-02-01,2014
+Snowy Monaro,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Snowy Monaro,New South Wales,AGRN 1084 - Snowy Monaro NSW Bushfires (2 October 2023),1084,0,1,0,0,A/B,2023-10-02,2023
+Snowy Monaro,New South Wales,AGRN 1132 - Snowy Monaro NSW Bushfire (20 September - 4 October 2023),1132,0,1,0,0,A/B,2023-09-20,2023
+Snowy Valleys,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Snowy Valleys,New South Wales,Riverina Highlands bushfires: from 18 January 2014,610,0,0,0,0,unknown,2014-01-18,2014
+Snowy Valleys,New South Wales,NSW Snowy Valleys Bushfires: 17 January 2019 onwards,860,1,1,0,0,A/B,2019-01-17,2019
+Snowy Valleys,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Sutherland,New South Wales,NSW - Sutherland (Royal National Park) Bushfire (20 January 2018 onwards),805,1,1,0,0,A/B,2018-01-20,2018
+Sutherland,New South Wales,Liverpool and Sutherland Bushfire: 14 April 2018 onwards,808,1,1,0,0,A/B,2018-04-14,2018
+Sutherland,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Tamworth,New South Wales,"NSW - Tamworth, Uralla and Gwydir Bushfires (2 January 2018)",789,1,1,0,0,A/B,2018-01-02,2018
+Tamworth,New South Wales,NSW - Tamworth Bushfire (25 December 2017 onwards),791,1,1,0,0,A/B,2017-12-25,2017
+Tamworth,New South Wales,NSW - Tamworth (Rockview) Bushfire (30 October 2018 onwards),841,1,0,0,0,A/B,2018-10-30,2018
+Tamworth,New South Wales,NSW - Tamworth (Halls Creek Road) Bushfires(3 January 2019 onwards),855,1,1,0,0,A/B,2019-01-03,2019
+Tamworth,New South Wales,NSW - Tamworth Regional and Upper Hunter Bushfires (11 February 2019 onwards),862,1,1,0,0,A/B,2019-02-11,2019
+Tamworth,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Tamworth,New South Wales,AGRN 1134 - Tamworth NSW Bushfires (26 October - 4 November 2023),1134,0,1,0,0,A/B,2023-10-26,2023
+Tamworth,New South Wales,AGRN 1192 -Tamworth and Uralla NSW Bushfires (27 December 2024 - 9 January 2025),1192,0,1,0,0,A/B,2024-12-27,2024
+Temora,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Tenterfield,New South Wales,Clarence Valley bushfire: 6 to 17 September 2012,524,0,0,0,0,unknown,2012-09-06,2012
+Tenterfield,New South Wales,Bushfire: 7 to 13 October 2012,528,0,0,0,0,unknown,2012-10-07,2012
+Tenterfield,New South Wales,Tenterfield Bushfire: 5 November 2016,741,0,0,0,0,unknown,2016-11-05,2016
+Tenterfield,New South Wales,NSW - Tenterfield Bushfires (commencing 8 September 2017),776,1,1,0,0,A/B,2017-09-08,2017
+Tenterfield,New South Wales,Northern NSW Bushfires: 11 February 2019 onwards,843,1,1,0,0,A/B,2019-02-11,2019
+Tenterfield,New South Wales,NSW - Tenterfield Bushfires (9 March 2019 onwards),864,1,1,0,0,A/B,2019-03-09,2019
+Tenterfield,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Tenterfield,New South Wales,AGRN 1075 - Far North NSW Bushfires (13 October 2023 onwards),1075,1,1,0,0,A/B,2023-10-13,2023
+Tenterfield,New South Wales,AGRN 1114 - Inverell and Tenterfield NSW Bushfires (7-24 December 2023),1114,0,1,0,0,A/B,2023-12-07,2023
+Tenterfield,New South Wales,AGRN 1156 - Tenterfield NSW Bushfire (2 September -16 September 2024),1156,0,1,0,0,A/B,2024-09-02,2024
+Tenterfield,New South Wales,AGRN 1236 -Tenterfield NSW Bushfire (from 23 October - 3 November 2025),1236,0,1,0,0,A/B,2025-10-23,2025
+Tenterfield,New South Wales,AGRN 1261 - Tenterfield NSW Bushfire (from 16 December 2025),1261,0,1,0,0,A/B,2025-12-16,2025
+The Hills,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Tweed,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Upper Hunter,New South Wales,Gloucester bushfire: 8 to 29 October 2012,525,0,0,0,0,unknown,2012-10-08,2012
+Upper Hunter,New South Wales,Bushfire: 19 to 28 December 2012,567,0,0,0,0,unknown,2012-12-19,2012
+Upper Hunter,New South Wales,NSW State-wide Bushfires: from 11 February 2017,742,0,0,0,0,unknown,2017-02-11,2017
+Upper Hunter,New South Wales,"Mid Coast, Port Macquarie Hastings, Dungog and Upper Hunter bushfires: 23 September 2017",778,1,1,0,0,A/B,2017-09-23,2017
+Upper Hunter,New South Wales,NSW - Upper Hunter Bushfires (23 January 2018 onwards),814,1,1,0,0,A/B,2018-01-23,2018
+Upper Hunter,New South Wales,NSW - Tamworth Regional and Upper Hunter Bushfires (11 February 2019 onwards),862,1,1,0,0,A/B,2019-02-11,2019
+Upper Hunter,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Upper Hunter,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,0,1,0,0,A/B,2023-03-06,2023
+Upper Hunter,New South Wales,AGRN 1055 - Western and North West NSW Bushfires (17 February 2023),1055,1,1,0,0,A/B,2023-02-17,2023
+Upper Hunter,New South Wales,AGRN 1091 Hunter NSW Bushfires (22 October - 5 November 2023),1091,0,1,0,0,A/B,2023-10-22,2023
+Upper Hunter,New South Wales,AGRN 1131 - Upper Hunter NSW Bushfire (10 - 17 August 2023),1131,0,1,0,0,A/B,2023-08-10,2023
+Upper Hunter,New South Wales,AGRN 1228 - Upper Hunter and Muswellbrook NSW Bushfires (from 26 November 2025),1228,1,1,0,0,A/B,2025-11-26,2025
+Upper Lachlan,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Upper Lachlan,New South Wales,NSW - Upper Lachlan (Long Gully) Bushfire (19 January 2018 onwards),806,1,1,0,0,A/B,2018-01-19,2018
+Upper Lachlan,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Upper Lachlan,New South Wales,AGRN 1056 - Upper Lachlan Bushfires (16 March 2023 onwards),1056,1,1,0,0,A/B,2023-03-16,2023
+Upper Lachlan,New South Wales,AGRN 1066 - Upper Lachlan and Yass Valley Bushfires (11 February 2023 onwards),1066,0,1,0,0,A/B,2023-02-11,2023
+Uralla,New South Wales,"NSW - Tamworth, Uralla and Gwydir Bushfires (2 January 2018)",789,1,1,0,0,A/B,2018-01-02,2018
+Uralla,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Uralla,New South Wales,AGRN 1192 -Tamworth and Uralla NSW Bushfires (27 December 2024 - 9 January 2025),1192,0,1,0,0,A/B,2024-12-27,2024
+Wagga Wagga,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Wagga Wagga,New South Wales,Riverina/Southern Border bushfires: from 18 January 2014,611,0,0,0,0,unknown,2014-01-18,2014
+Wagga Wagga,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Walcha,New South Wales,Armidale bushfire: 20 October 2012,507,0,0,0,0,unknown,2012-10-20,2012
+Walcha,New South Wales,Mid North Coast bushfires: from 26 September 2013,615,0,0,0,0,unknown,2013-09-26,2013
+Walcha,New South Wales,Mid North Coast bushfires: from 5 November 2013,617,0,0,0,0,unknown,2013-11-05,2013
+Walcha,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Walgett,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Walgett,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,1,1,0,0,A/B,2023-03-06,2023
+Walgett,New South Wales,AGRN 1081 - North Western NSW Bushfires (14 November 2023 onwards),1081,1,1,0,0,A/B,2023-11-14,2023
+Walgett,New South Wales,AGRN 1206 - NSW Walgett and Coonamble Bushfire (28 January -12 February 2025),1206,0,1,0,0,A/B,2025-01-28,2025
+Warren,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Warren,New South Wales,AGRN 1052 - NSW Bushfires (6 March 2023),1052,1,1,0,0,A/B,2023-03-06,2023
+Warrumbungle,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Warrumbungle,New South Wales,Warrumbungle bushfires: from 1 February 2014,632,0,0,0,0,unknown,2014-02-01,2014
+Warrumbungle,New South Wales,NSW State-wide Bushfires: from 11 February 2017,742,0,0,0,0,unknown,2017-02-11,2017
+Warrumbungle,New South Wales,Narrabri and Warrumbungle bushfire: 17 January 2018 onwards,799,1,1,0,0,A/B,2018-01-17,2018
+Warrumbungle,New South Wales,AGRN 1230 - NSW Dubbo and Warrumbungle Bushfire (from 27 November 2025),1230,1,1,0,0,A/B,2025-11-27,2025
+Weddin,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Weddin,New South Wales,NSW bushfires: 23 November 2014,672,0,0,0,0,unknown,2014-11-23,2014
+Wingecarribee,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Wingecarribee,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Wingecarribee,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Wollondilly,New South Wales,Eastern bushfires: from 13 October 2013,587,0,0,0,0,unknown,2013-10-13,2013
+Wollondilly,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Wollondilly,New South Wales,AGRN 871 - NSW Bushfires (31 August 2019 onwards),871,1,1,1,1,C/D,2019-08-31,2019
+Wollongong,New South Wales,Eastern bushfires: from 16 October 2013,588,0,0,0,0,unknown,2013-10-16,2013
+Yass Valley,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Yass Valley,New South Wales,Southern Ranges Bushfires: from 17 January 2017,745,0,0,0,0,unknown,2017-01-17,2017
+Yass Valley,New South Wales,AGRN 1066 - Upper Lachlan and Yass Valley Bushfires (11 February 2023 onwards),1066,0,1,0,0,A/B,2023-02-11,2023
+Yass Valley,New South Wales,AGRN 1190 - Yass Valley NSW Bushfire (27 December 2024 - 7 January 2025),1190,0,1,0,0,A/B,2024-12-27,2024
+Unincorporated NSW,New South Wales,Bourke bushfire: 20 to 27 October 2012,505,0,0,0,0,unknown,2012-10-20,2012
+Unincorporated NSW,New South Wales,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Unincorporated NSW,New South Wales,Bushfire: 13 to 18 December 2012,572,0,0,0,0,unknown,2012-12-13,2012
+Alpine,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Alpine,Victoria,Eastern bushfires: 17 January 2013,540,0,0,0,0,unknown,2013-01-17,2013
+Alpine,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Alpine,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,0,1,0,0,A/B,2019-02-28,2019
+Alpine,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Alpine,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Ararat,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Ararat,Victoria,Bushfires: 15 January 2014,602,0,0,0,0,unknown,2014-01-15,2014
+Ararat,Victoria,Bushfires: 2 January 2015,642,0,0,0,0,unknown,2015-01-02,2015
+Ararat,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Ararat,Victoria,AGRN 1166 - Western Victoria Bushfires (commencing 16 December 2024),1166,1,1,1,1,C/D,2024-12-16,2024
+Ararat,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Ballarat,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+Ballarat,Victoria,Ballarat (Mount Bolton) and Mornington Peninsula (Somerville) Bushfires: February 2016,701,0,0,0,0,unknown,2016-02-23,2016
+Ballarat,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Bass Coast,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+Bass Coast,Victoria,AGRN 1169 - Bass Coast Bushfires (commencing 19 December 2024),1169,1,1,0,0,A/B,2024-12-19,2024
+Baw Baw,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Baw Baw,Victoria,Eastern bushfires: 17 January 2013,540,0,0,0,0,unknown,2013-01-17,2013
+Baw Baw,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Baw Baw,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Baw Baw,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,1,1,1,0,C/D,2019-02-28,2019
+Baw Baw,Victoria,Thomson Catchment Bushfires: commencing 25 January 2019,854,1,1,0,0,A/B,2019-01-25,2019
+Baw Baw,Victoria,AGRN 1073 - East Victorian Fires (commencing 29 September 2023),1073,1,1,0,0,A/B,2023-09-29,2023
+Benalla,Victoria,Bushfires: 16 December 2014,644,0,0,0,0,unknown,2014-12-16,2014
+Benalla,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,0,1,0,0,A/B,2019-02-28,2019
+Benalla,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Benalla,Victoria,AGRN 1257 - Goomalibee Fires (commencing 18 December 2025),1257,1,1,0,0,A/B,2025-12-18,2025
+Buloke,Victoria,AGRN 1259 - Charlton - Jeffcott fires (commencing 18 December 2025),1259,1,1,0,0,A/B,2025-12-18,2025
+Campaspe,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Campaspe,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Cardinia,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Cardinia,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,1,1,1,0,C/D,2019-02-28,2019
+Casey,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Colac Otway,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Corangamite,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Corangamite,Victoria,Bushfires: 27 March 2013,557,0,0,0,0,unknown,2013-03-27,2013
+Corangamite,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+East Gippsland,Victoria,Eastern bushfires: 17 January 2013,540,0,0,0,0,unknown,2013-01-17,2013
+East Gippsland,Victoria,Hippo Track bushfire: October 2012,551,0,0,0,0,unknown,2012-10-01,2012
+East Gippsland,Victoria,Bushfires: 15 January 2014,602,0,0,0,0,unknown,2014-01-15,2014
+East Gippsland,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+East Gippsland,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+East Gippsland,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,1,1,1,0,C/D,2019-02-28,2019
+East Gippsland,Victoria,Timbarra bushfires: commencing 16 January 2019,852,1,1,0,0,A/B,2019-01-16,2019
+East Gippsland,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+East Gippsland,Victoria,AGRN 1073 - East Victorian Fires (commencing 29 September 2023),1073,1,1,0,0,A/B,2023-09-29,2023
+East Gippsland,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Glenelg,Victoria,Western Victorian bushfires: January 2013,539,0,0,0,0,unknown,2013-01-01,2013
+Glenelg,Victoria,Casterton bushfire: November 2012,552,0,0,0,0,unknown,2012-11-01,2012
+Glenelg,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Golden Plains,Victoria,Bushfires: 27 March 2013,557,0,0,0,0,unknown,2013-03-27,2013
+Golden Plains,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Golden Plains,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Greater Bendigo,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Greater Bendigo,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Greater Bendigo,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Greater Dandenong,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Greater Shepparton,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Greater Shepparton,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,0,0,A/B,2026-01-07,2026
+Hepburn,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Hepburn,Victoria,AGRN 1166 - Western Victoria Bushfires (commencing 16 December 2024),1166,1,0,1,1,C/D,2024-12-16,2024
+Hindmarsh,Victoria,Bushfires: 15 January 2014,602,0,0,0,0,unknown,2014-01-15,2014
+Hindmarsh,Victoria,Bushfires: 2 January 2015,642,0,0,0,0,unknown,2015-01-02,2015
+Hindmarsh,Victoria,AGRN 1166 - Western Victoria Bushfires (commencing 16 December 2024),1166,1,1,1,1,C/D,2024-12-16,2024
+Horsham,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Horsham,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Horsham,Victoria,Bushfires: 15 January 2014,602,0,0,0,0,unknown,2014-01-15,2014
+Horsham,Victoria,Bushfires: 2 January 2015,642,0,0,0,0,unknown,2015-01-02,2015
+Horsham,Victoria,AGRN 1166 - Western Victoria Bushfires (commencing 16 December 2024),1166,1,1,1,1,C/D,2024-12-16,2024
+Horsham,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Hume,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Indigo,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Indigo,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+Indigo,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,0,1,0,0,A/B,2019-02-28,2019
+Indigo,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Latrobe,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Latrobe,Victoria,Eastern bushfires: 17 January 2013,540,0,0,0,0,unknown,2013-01-17,2013
+Latrobe,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Latrobe,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,1,1,1,0,C/D,2019-02-28,2019
+Latrobe,Victoria,Thomson Catchment Bushfires: commencing 25 January 2019,854,1,1,0,0,A/B,2019-01-25,2019
+Macedon Ranges,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Macedon Ranges,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Macedon Ranges,Victoria,Victorian bushfires: 3 October 2015,676,0,0,0,0,unknown,2015-10-03,2015
+Macedon Ranges,Victoria,AGRN 1166 - Western Victoria Bushfires (commencing 16 December 2024),1166,1,1,1,1,C/D,2024-12-16,2024
+Macedon Ranges,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Manningham,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Mansfield,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Mansfield,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,0,1,0,0,A/B,2019-02-28,2019
+Mansfield,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Mansfield,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Mildura,Victoria,Bushfires: 15 January 2014,602,0,0,0,0,unknown,2014-01-15,2014
+Mildura,Victoria,Bushfires: 2 January 2015,642,0,0,0,0,unknown,2015-01-02,2015
+Mildura,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Mitchell,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Mitchell,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Mitchell,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Mitchell,Victoria,Victorian bushfires: 3 October 2015,676,0,0,0,0,unknown,2015-10-03,2015
+Mitchell,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,0,1,0,0,A/B,2019-02-28,2019
+Mitchell,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Moira,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Moira,Victoria,Bushfires: 16 December 2014,644,0,0,0,0,unknown,2014-12-16,2014
+Moira,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Moorabool,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+Mornington Peninsula,Victoria,Mornington Peninsula Bushfire: January 2016,695,0,0,0,0,unknown,2016-01-18,2016
+Mornington Peninsula,Victoria,Ballarat (Mount Bolton) and Mornington Peninsula (Somerville) Bushfires: February 2016,701,0,0,0,0,unknown,2016-02-23,2016
+Mount Alexander,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Mount Alexander,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Moyne,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Murrindindi,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Murrindindi,Victoria,Victorian bushfires: 3 October 2015,676,0,0,0,0,unknown,2015-10-03,2015
+Murrindindi,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+Murrindindi,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,0,1,0,0,A/B,2019-02-28,2019
+Murrindindi,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Nillumbik,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Nillumbik,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Northern Grampians,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Northern Grampians,Victoria,Bushfires: 15 January 2014,602,0,0,0,0,unknown,2014-01-15,2014
+Northern Grampians,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Northern Grampians,Victoria,AGRN 1166 - Western Victoria Bushfires (commencing 16 December 2024),1166,1,1,1,1,C/D,2024-12-16,2024
+Northern Grampians,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,0,1,0,0,A/B,2026-01-07,2026
+Pyrenees,Victoria,Western Victorian bushfires: January 2013,539,0,0,0,0,unknown,2013-01-01,2013
+Pyrenees,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Pyrenees,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+South Gippsland,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+South Gippsland,Victoria,Bushfires: 27 March 2013,557,0,0,0,0,unknown,2013-03-27,2013
+South Gippsland,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,1,1,0,0,A/B,2019-02-28,2019
+Southern Grampians,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Southern Grampians,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Southern Grampians,Victoria,Bushfires: 15 January 2014,602,0,0,0,0,unknown,2014-01-15,2014
+Southern Grampians,Victoria,Bushfires: 2 January 2015,642,0,0,0,0,unknown,2015-01-02,2015
+Southern Grampians,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Southern Grampians,Victoria,AGRN 1166 - Western Victoria Bushfires (commencing 16 December 2024),1166,1,1,1,1,C/D,2024-12-16,2024
+Strathbogie,Victoria,Eastern bushfires: 17 January 2013,540,0,0,0,0,unknown,2013-01-17,2013
+Strathbogie,Victoria,Bushfires: 16 December 2014,644,0,0,0,0,unknown,2014-12-16,2014
+Strathbogie,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Strathbogie,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Surf Coast,Victoria,Victorian bushfires: 3 October 2015,676,0,0,0,0,unknown,2015-10-03,2015
+Surf Coast,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+Towong,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,0,1,0,0,A/B,2019-02-28,2019
+Towong,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Towong,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Wangaratta,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Wangaratta,Victoria,Bushfires: 16 December 2014,644,0,0,0,0,unknown,2014-12-16,2014
+Wangaratta,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,0,1,0,0,A/B,2019-02-28,2019
+Wangaratta,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Wellington,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Wellington,Victoria,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Wellington,Victoria,Eastern bushfires: 17 January 2013,540,0,0,0,0,unknown,2013-01-17,2013
+Wellington,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Wellington,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Wellington,Victoria,Rosedale Bushfire: commencing 4 January 2019,837,1,1,0,0,A/B,2019-01-04,2019
+Wellington,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,1,1,1,0,C/D,2019-02-28,2019
+Wellington,Victoria,Thomson Catchment Bushfires: commencing 25 January 2019,854,1,1,0,0,A/B,2019-01-25,2019
+Wellington,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Wellington,Victoria,AGRN 1073 - East Victorian Fires (commencing 29 September 2023),1073,1,1,0,0,A/B,2023-09-29,2023
+Wellington,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+West Wimmera,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+West Wimmera,Victoria,Bushfires: 27 March 2013,557,0,0,0,0,unknown,2013-03-27,2013
+West Wimmera,Victoria,Bushfires: 15 January 2014,602,0,0,0,0,unknown,2014-01-15,2014
+West Wimmera,Victoria,Bushfires: 2 January 2015,642,0,0,0,0,unknown,2015-01-02,2015
+West Wimmera,Victoria,AGRN 1166 - Western Victoria Bushfires (commencing 16 December 2024),1166,1,1,1,1,C/D,2024-12-16,2024
+West Wimmera,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,0,1,0,0,A/B,2026-01-07,2026
+Whittlesea,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Whittlesea,Victoria,Bushfires: February 2013,550,0,0,0,0,unknown,2013-02-01,2013
+Whittlesea,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+Whittlesea,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,0,0,A/B,2026-01-07,2026
+Wodonga,Victoria,Bushfires: 16 December 2014,644,0,0,0,0,unknown,2014-12-16,2014
+Wodonga,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+Wodonga,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Wodonga,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Yarra Ranges,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Yarra Ranges,Victoria,Bushfires: 7 February 2014,608,0,0,0,0,unknown,2014-02-07,2014
+Yarra Ranges,Victoria,Victorian Bushfires: 19 to 25 December 2015,689,0,0,0,0,unknown,2015-12-19,2015
+Yarra Ranges,Victoria,AGRN 846 - South-East Victoria Bushfires (28 February 2019),846,0,1,0,0,A/B,2019-02-28,2019
+Yarra Ranges,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Yarriambiack,Victoria,Bushfires: 15 January 2014,602,0,0,0,0,unknown,2014-01-15,2014
+Yarriambiack,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,0,0,A/B,2026-01-07,2026
+Unincorporated Vic,Victoria,Victorian bushfires: January to February 2009,322,0,0,0,0,unknown,2009-01-01,2009
+Unincorporated Vic,Victoria,Victorian Bushfires: 21 November 2019 onwards,882,1,1,1,1,C/D,2019-11-21,2019
+Unincorporated Vic,Victoria,AGRN 1242 - Victorian Bushfires (commencing 7 January 2026),1242,1,1,1,1,C/D,2026-01-07,2026
+Balonne,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Balonne,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Balonne,Queensland,AGRN 1153 - Dirranbandi Bushfires (5 - 10 November 2024),1153,1,1,0,0,A/B,2024-11-05,2024
+Banana,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Banana,Queensland,Central Queensland Bushfires: from 22 November 2018,827,1,1,1,0,C/D,2018-11-22,2018
+Banana,Queensland,Central Queensland Bushfires (2-27 October 2025),1255,1,1,0,0,A/B,2025-10-02,2025
+Barcaldine,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Barcoo,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Blackall Tambo,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Boulia,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Brisbane,Queensland,Queensland Bushfires: September - December 2019,909,1,1,0,0,A/B,2019-09-01,2019
+Brisbane,Queensland,AGRN 1266 - Moreton Island Bushfire (4 to 13 October 2025),1266,1,1,0,0,A/B,2025-10-04,2025
+Bulloo,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Bundaberg,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Bundaberg,Queensland,Central Queensland Bushfires: from 22 November 2018,827,1,1,1,0,C/D,2018-11-22,2018
+Bundaberg,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Bundaberg,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Bundaberg,Queensland,Central Queensland Bushfires (2-27 October 2025),1255,1,1,0,0,A/B,2025-10-02,2025
+Burdekin,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Burke,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Burke,Queensland,AGRN 1268 - North Queensland Savanna Bushfires (20 October to 13 November 2025),1268,1,1,0,0,A/B,2025-10-20,2025
+Carpentaria,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Carpentaria,Queensland,AGRN 1268 - North Queensland Savanna Bushfires (20 October to 13 November 2025),1268,1,1,0,0,A/B,2025-10-20,2025
+Cassowary Coast,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Central Highlands,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Central Highlands,Queensland,Central Queensland Bushfires: from 22 November 2018,827,1,1,1,0,C/D,2018-11-22,2018
+Central Highlands,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Central Highlands,Queensland,AGRN 1165 - Mount Tabor Bushfire (22 September to 8 October 2024),1165,1,1,0,0,A/B,2024-09-22,2024
+Central Highlands,Queensland,Central Queensland Bushfires (2-27 October 2025),1255,1,1,0,0,A/B,2025-10-02,2025
+Charters Towers,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Charters Towers,Queensland,AGRN 1154 - North Queensland Bushfires (12 September - 15 November 2024),1154,1,1,0,0,A/B,2024-09-12,2024
+Charters Towers,Queensland,AGRN 1268 - North Queensland Savanna Bushfires (20 October to 13 November 2025),1268,1,1,0,0,A/B,2025-10-20,2025
+Cloncurry,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Cloncurry,Queensland,AGRN 1179 - Cloncurry and Mount Isa Bushfires (6 to 29 October 2024),1179,1,1,0,0,A/B,2024-10-06,2024
+Cook,Queensland,Queensland Bushfires: September - December 2019,909,1,1,0,0,A/B,2019-09-01,2019
+Cook,Queensland,AGRN 1079 - Northern Queensland bushfres (18 October - 8 December 2023),1079,1,1,0,0,A/B,2023-10-18,2023
+Cook,Queensland,AGRN 1183 - Cook and Hope Vale Bushfires (20 September to 9 October 2024),1183,1,1,0,0,A/B,2024-09-20,2024
+Cook,Queensland,AGRN 1268 - North Queensland Savanna Bushfires (20 October to 13 November 2025),1268,1,1,0,0,A/B,2025-10-20,2025
+Croydon,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Croydon,Queensland,AGRN 1268 - North Queensland Savanna Bushfires (20 October to 13 November 2025),1268,1,1,0,0,A/B,2025-10-20,2025
+Diamantina,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Etheridge,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Etheridge,Queensland,Far Northern Queensland bushfires: October to December 2012,534,0,0,0,0,unknown,2012-10-01,2012
+Etheridge,Queensland,AGRN 1154 - North Queensland Bushfires (12 September - 15 November 2024),1154,1,1,0,0,A/B,2024-09-12,2024
+Etheridge,Queensland,AGRN 1268 - North Queensland Savanna Bushfires (20 October to 13 November 2025),1268,1,1,0,0,A/B,2025-10-20,2025
+Flinders,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Flinders,Queensland,AGRN 1079 - Northern Queensland bushfres (18 October - 8 December 2023),1079,1,1,0,0,A/B,2023-10-18,2023
+Flinders,Queensland,AGRN 1154 - North Queensland Bushfires (12 September - 15 November 2024),1154,1,1,0,0,A/B,2024-09-12,2024
+Fraser Coast,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Fraser Coast,Queensland,Queensland Bushfires: September - December 2019,909,1,1,0,0,A/B,2019-09-01,2019
+Fraser Coast,Queensland,AGRN 941 - K’gari (Fraser Island) Bushfires (15 Nov - 4 Dec 2020),941,0,1,0,0,A/B,2020-11-09,2020
+Gladstone,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Gladstone,Queensland,Central Queensland Bushfires: from 22 November 2018,827,1,1,1,0,C/D,2018-11-22,2018
+Gladstone,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Gladstone,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Gold Coast,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Goondiwindi,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Goondiwindi,Queensland,AGRN 1254 - Inglewood Bushfires (10 to 17 November 2025),1254,1,1,0,0,A/B,2025-11-10,2025
+Gympie,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Gympie,Queensland,Gympie Bushfires: 19-27 September 2018,831,1,1,0,0,A/B,2018-09-19,2018
+Gympie,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Gympie,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Hinchinbrook,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Hope Vale,Queensland,AGRN 1183 - Cook and Hope Vale Bushfires (20 September to 9 October 2024),1183,1,1,0,0,A/B,2024-09-20,2024
+Ipswich,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Isaac,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Isaac,Queensland,Central Queensland Bushfires: from 22 November 2018,827,1,1,1,0,C/D,2018-11-22,2018
+Isaac,Queensland,Central Queensland Bushfires (2-27 October 2025),1255,1,1,0,0,A/B,2025-10-02,2025
+Livingstone,Queensland,Central Queensland Bushfires: from 22 November 2018,827,1,1,1,0,C/D,2018-11-22,2018
+Livingstone,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Livingstone,Queensland,Central Queensland Bushfires (2-27 October 2025),1255,1,1,0,0,A/B,2025-10-02,2025
+Lockyer Valley,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Lockyer Valley,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Logan,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Longreach,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Mackay,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Mackay,Queensland,Central Queensland Bushfires: from 22 November 2018,827,1,1,1,0,C/D,2018-11-22,2018
+Mackay,Queensland,Central Queensland Bushfires (2-27 October 2025),1255,1,1,0,0,A/B,2025-10-02,2025
+McKinlay,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+McKinlay,Queensland,AGRN 1079 - Northern Queensland bushfres (18 October - 8 December 2023),1079,0,1,0,0,A/B,2023-10-18,2023
+Maranoa,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Maranoa,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Maranoa,Queensland,AGRN 1165 - Mount Tabor Bushfire (22 September to 8 October 2024),1165,1,1,0,0,A/B,2024-09-22,2024
+Maranoa,Queensland,AGRN 1251 - Darling Downs and Maranoa Bushfires (26 September - 14 October),1251,1,1,0,0,A/B,2025-09-26,2025
+Mareeba,Queensland,Mareeba and Tablelands Bushfires: 17 September to 9 October 2018,832,1,1,0,0,A/B,2018-09-17,2018
+Mareeba,Queensland,Queensland Bushfires: September - December 2019,909,1,1,0,0,A/B,2019-09-01,2019
+Mareeba,Queensland,AGRN 1079 - Northern Queensland bushfres (18 October - 8 December 2023),1079,1,1,0,0,A/B,2023-10-18,2023
+Mareeba,Queensland,AGRN 1181 - Silver Valley and Walsh Bluff Bushfires (13 to 24 November 2024),1181,1,1,0,0,A/B,2024-11-13,2024
+Mareeba,Queensland,AGRN 1268 - North Queensland Savanna Bushfires (20 October to 13 November 2025),1268,1,1,0,0,A/B,2025-10-20,2025
+Mount Isa,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Mount Isa,Queensland,AGRN 1115 - Mount Isa bushfire (23 October - 1 November 2023),1115,1,1,0,0,A/B,2023-10-23,2023
+Mount Isa,Queensland,AGRN 1179 - Cloncurry and Mount Isa Bushfires (6 to 29 October 2024),1179,1,1,0,0,A/B,2024-10-06,2024
+Murweh,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Noosa,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+North Burnett,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+North Burnett,Queensland,Queensland Bushfires: September - December 2019,909,1,1,0,0,A/B,2019-09-01,2019
+North Burnett,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+North Burnett,Queensland,Central Queensland Bushfires (2-27 October 2025),1255,1,1,0,0,A/B,2025-10-02,2025
+Paroo,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Redland,Queensland,North Stradbroke Island bushfires: 29 December 2013,594,0,0,0,0,unknown,2013-12-29,2013
+Redland,Queensland,Redland Bushfires: 28 November - 13 December 2018,828,1,1,0,0,A/B,2018-11-28,2018
+Redland,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,0,C/D,2019-09-01,2019
+Richmond,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Richmond,Queensland,AGRN 1268 - North Queensland Savanna Bushfires (20 October to 13 November 2025),1268,1,1,0,0,A/B,2025-10-20,2025
+Rockhampton,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Rockhampton,Queensland,Central Queensland Bushfires: from 22 November 2018,827,1,1,1,0,C/D,2018-11-22,2018
+Rockhampton,Queensland,Queensland Bushfires: September - December 2019,909,1,1,0,0,A/B,2019-09-01,2019
+Rockhampton,Queensland,Central Queensland Bushfires (2-27 October 2025),1255,1,1,0,0,A/B,2025-10-02,2025
+Scenic Rim,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Scenic Rim,Queensland,AGRN 957 - Kooralbyn Bushfire (12-19 October 2020),957,0,1,0,0,A/B,2020-10-12,2020
+Scenic Rim,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Somerset,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Somerset,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+South Burnett,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+South Burnett,Queensland,Queensland Bushfires: September - December 2019,909,1,1,0,0,A/B,2019-09-01,2019
+South Burnett,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,0,1,1,1,C/D,2023-09-08,2023
+Southern Downs,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Southern Downs,Queensland,Wallangarra Bushfires: 12 - 21 February 2019,872,1,1,0,0,A/B,2019-02-12,2019
+Southern Downs,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Southern Downs,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Sunshine Coast,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Sunshine Coast,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Tablelands,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Tablelands,Queensland,Far Northern Queensland bushfires: October to December 2012,534,0,0,0,0,unknown,2012-10-01,2012
+Tablelands,Queensland,Mareeba and Tablelands Bushfires: 17 September to 9 October 2018,832,1,1,0,0,A/B,2018-09-17,2018
+Tablelands,Queensland,AGRN 1079 - Northern Queensland bushfres (18 October - 8 December 2023),1079,1,1,0,0,A/B,2023-10-18,2023
+Tablelands,Queensland,AGRN 1154 - North Queensland Bushfires (12 September - 15 November 2024),1154,1,1,0,0,A/B,2024-09-12,2024
+Tablelands,Queensland,AGRN 1181 - Silver Valley and Walsh Bluff Bushfires (13 to 24 November 2024),1181,1,1,0,0,A/B,2024-11-13,2024
+Tablelands,Queensland,AGRN 1268 - North Queensland Savanna Bushfires (20 October to 13 November 2025),1268,1,1,0,0,A/B,2025-10-20,2025
+Toowoomba,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Toowoomba,Queensland,Queensland Bushfires: September - December 2019,909,1,1,1,1,C/D,2019-09-01,2019
+Toowoomba,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Toowoomba,Queensland,AGRN 1080 - The Pines and Condamine Farms bushfire (19 November - 1 December 2023),1080,1,1,0,0,A/B,2023-11-19,2023
+Toowoomba,Queensland,AGRN 1251 - Darling Downs and Maranoa Bushfires (26 September - 14 October),1251,1,1,0,0,A/B,2025-09-26,2025
+Toowoomba,Queensland,AGRN 1253 - Weir River Bushfires (26 October to 7 November 2025),1253,1,1,0,0,A/B,2025-10-26,2025
+Toowoomba,Queensland,AGRN 1254 - Inglewood Bushfires (10 to 17 November 2025),1254,1,1,0,0,A/B,2025-11-10,2025
+Townsville,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Townsville,Queensland,Queensland Bushfires: September - December 2019,909,1,1,0,0,A/B,2019-09-01,2019
+Townsville,Queensland,AGRN 958 - Gumlow Bushfire (21-26 November 2020),958,0,1,0,0,A/B,2020-11-21,2020
+Townsville,Queensland,AGRN 1085 - Nome and Julago Bushfire (16 - 24 September 2023),1085,1,1,0,0,A/B,2023-09-16,2023
+Western Downs,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Western Downs,Queensland,South West Queensland bushfire: December 2012,533,0,0,0,0,unknown,2012-12-01,2012
+Western Downs,Queensland,AGRN 1048 - Western Downs Bushfire (30 January - March 2023),1048,1,1,0,0,A/B,2023-01-30,2023
+Western Downs,Queensland,AGRN 1078 - Southern Queensland Bushfires (8 September - 7 November 2023),1078,1,1,1,1,C/D,2023-09-08,2023
+Western Downs,Queensland,AGRN 1250 - Red Hill Bushfire (5-11 November 2025),1250,1,1,0,0,A/B,2025-11-05,2025
+Western Downs,Queensland,AGRN 1251 - Darling Downs and Maranoa Bushfires (26 September - 14 October),1251,1,1,0,0,A/B,2025-09-26,2025
+Western Downs,Queensland,AGRN 1253 - Weir River Bushfires (26 October to 7 November 2025),1253,1,1,0,0,A/B,2025-10-26,2025
+Whitsunday,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Whitsunday,Queensland,Queensland Bushfires: September - December 2019,909,1,1,0,0,A/B,2019-09-01,2019
+Winton,Queensland,Queensland bushfires: August to November 2011,458,0,0,0,0,unknown,2011-08-01,2011
+Adelaide Hills,South Australia,Cherryville bushfire: 9 to 12 May 2013,562,0,0,0,0,unknown,2013-05-09,2013
+Adelaide Hills,South Australia,Bushfires: January 2015,641,0,0,0,0,unknown,2015-01-02,2015
+Adelaide Hills,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,1,1,C/D,2019-11-01,2019
+Adelaide Plains,South Australia,Lower Mid North Bushfire (Pinery): 25 November 2015,682,0,0,0,0,unknown,2015-11-25,2015
+Barossa,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Barossa,South Australia,Bushfires: January 2015,641,0,0,0,0,unknown,2015-01-02,2015
+Berri Barmera,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Ceduna,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Clare and Gilbert Valleys,South Australia,Lower Mid North Bushfire (Pinery): 25 November 2015,682,0,0,0,0,unknown,2015-11-25,2015
+Kangaroo Island,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,1,1,C/D,2019-11-01,2019
+Karoonda East Murray,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Kingston,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,1,1,C/D,2019-11-01,2019
+Light,South Australia,Lower Mid North Bushfire (Pinery): 25 November 2015,682,0,0,0,0,unknown,2015-11-25,2015
+Lower Eyre Peninsula,South Australia,Tulka bushfire: 11 November 2012,518,0,0,0,0,unknown,2012-11-11,2012
+Lower Eyre Peninsula,South Australia,Coomunga bushfire: 20 November 2012,519,0,0,0,0,unknown,2012-11-20,2012
+Lower Eyre Peninsula,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,0,0,A/B,2019-11-01,2019
+Loxton Waikerie,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Mid Murray,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Mid Murray,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,1,1,C/D,2019-11-01,2019
+Mount Barker,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,1,1,C/D,2019-11-01,2019
+Mount Remarkable,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Murray Bridge,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Murray Bridge,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,1,1,C/D,2019-11-01,2019
+Northern Areas,South Australia,Bundaleer bushfire: 16 January 2013,541,0,0,0,0,unknown,2013-01-16,2013
+Playford,South Australia,Bushfires: January 2015,641,0,0,0,0,unknown,2015-01-02,2015
+Playford,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,0,0,A/B,2019-11-01,2019
+Renmark Paringa,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Southern Mallee,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Southern Mallee,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,1,1,C/D,2019-11-01,2019
+Tatiara,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Tea Tree Gully,South Australia,Bushfires: January 2015,641,0,0,0,0,unknown,2015-01-02,2015
+Coorong,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Coorong,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,1,1,C/D,2019-11-01,2019
+Wakefield,South Australia,Lower Mid North Bushfire (Pinery): 25 November 2015,682,0,0,0,0,unknown,2015-11-25,2015
+Wattle Range,South Australia,Bushfires: January 2015,641,0,0,0,0,unknown,2015-01-02,2015
+Yorke Peninsula,South Australia,South Australian bushfires: November 2019 onwards,877,1,1,1,1,C/D,2019-11-01,2019
+Unincorporated SA,South Australia,Bushfires: January 2014,603,0,0,0,0,unknown,2014-01-14,2014
+Armadale,Western Australia,Western Australia bushfire: 5 February 2011,431,0,0,0,0,unknown,2011-02-05,2011
+Augusta Margaret River,Western Australia,Western Australia-bushfire Augusta-Margaret River: 23 November 2011,462,0,0,0,0,unknown,2011-11-23,2011
+Boddington,Western Australia,South West bushfires: 30 January 2015,648,0,0,0,0,unknown,2015-01-30,2015
+Bridgetown-Greenbushes,Western Australia,AGRN 1009 - Bridgetown Bushfire (5-12 February 2022),1009,1,1,0,0,A/B,2022-02-05,2022
+Bruce Rock,Western Australia,AGRN 1010 - Shackelton Complex Bushfire (6-15 February 2022),1010,1,1,0,0,A/B,2022-02-06,2022
+Canning,Western Australia,Western Australia bushfire: 5 February 2011,431,0,0,0,0,unknown,2011-02-05,2011
+Chittering,Western Australia,Western Australia bushfire: 5 February 2011,431,0,0,0,0,unknown,2011-02-05,2011
+Coorow,Western Australia,Western Australia bushfires: 29 December 2009,365,0,0,0,0,unknown,2009-12-29,2009
+Corrigin,Western Australia,AGRN 1010 - Shackelton Complex Bushfire (6-15 February 2022),1010,1,1,0,0,A/B,2022-02-06,2022
+Dandaragan,Western Australia,Western Australia bushfires: 29 December 2009,365,0,0,0,0,unknown,2009-12-29,2009
+Donnybrook-Balingup,Western Australia,South West bushfires: 12 February 2013,585,0,0,0,0,unknown,2013-02-12,2013
+Esperance,Western Australia,Esperance Bushfire: 15 November 2015,688,0,0,0,0,unknown,2015-11-15,2015
+Harvey,Western Australia,Bushfires in the Peel and South West regions of WA (Waroona Bushfire): 6 January 2016,694,0,0,0,0,unknown,2016-01-06,2016
+Manjimup,Western Australia,South West bushfires: 30 January 2015,648,0,0,0,0,unknown,2015-01-30,2015
+Mundaring,Western Australia,Parkerville bushfire: 12 January 2014,600,0,0,0,0,unknown,2014-01-12,2014
+Mundaring,Western Australia,AGRN 950 - Wooroloo Bushfire (1 February 2021),950,1,1,1,0,C/D,2021-02-01,2021
+Murray,Western Australia,State-wide bushfires: January 2013,538,0,0,0,0,unknown,2013-01-01,2013
+Serpentine-Jarrahdale,Western Australia,Western Australia bushfire: 5 February 2011,431,0,0,0,0,unknown,2011-02-05,2011
+Swan,Western Australia,Western Australia bushfire: 5 February 2011,431,0,0,0,0,unknown,2011-02-05,2011
+Swan,Western Australia,AGRN 950 - Wooroloo Bushfire (1 February 2021),950,1,1,1,0,C/D,2021-02-01,2021
+Swan,Western Australia,AGRN 1082 - Mariginiup Bushfire in Western Australia (22 November 2023 onwards),1082,1,1,0,0,A/B,2023-11-22,2023
+Toodyay,Western Australia,Western Australia bushfires: 29 December 2009,365,0,0,0,0,unknown,2009-12-29,2009
+Wanneroo,Western Australia,AGRN 1082 - Mariginiup Bushfire in Western Australia (22 November 2023 onwards),1082,1,1,0,0,A/B,2023-11-22,2023
+Waroona,Western Australia,Bushfires in the Peel and South West regions of WA (Waroona Bushfire): 6 January 2016,694,0,0,0,0,unknown,2016-01-06,2016
+York,Western Australia,St Ronans Bushfire: 10 January 2019,839,0,1,0,0,A/B,2019-01-10,2019
+Break O'Day,Tasmania,St Helens Bushfire: commencing 17 October 2017,779,1,1,0,0,A/B,2017-10-17,2017
+Break O'Day,Tasmania,Tasmanian Bushfires: 16 November 2019 onwards,913,1,1,0,0,A/B,2019-11-16,2019
+Break O'Day,Tasmania,AGRN 1234 - Break O'Day Bushfires (commencing 9 December 2025),1234,1,1,0,0,A/B,2025-12-09,2025
+Central Highlands,Tasmania,Bushfires: January 2013,537,0,0,0,0,unknown,2013-01-01,2013
+Central Highlands,Tasmania,Tasmanian Bushfires: December 2018 and January 2019,838,1,1,0,1,C/D,2018-12-28,2018
+Central Highlands,Tasmania,Tasmanian Bushfires: 16 November 2019 onwards,913,1,1,0,0,A/B,2019-11-16,2019
+Circular Head,Tasmania,Bushfires: January 2013,537,0,0,0,0,unknown,2013-01-01,2013
+Circular Head,Tasmania,North West Tasmanian Bushfires: January 2016,709,0,0,0,0,unknown,2016-01-13,2016
+Circular Head,Tasmania,AGRN 1187 - Tasmanian West Coast Fires (February 2025),1187,1,1,0,1,C/D,2025-02-03,2025
+Derwent Valley,Tasmania,Bushfires: January 2013,537,0,0,0,0,unknown,2013-01-01,2013
+Derwent Valley,Tasmania,Molesworth bushfire: 6 February 2013,548,0,0,0,0,unknown,2013-02-06,2013
+Derwent Valley,Tasmania,Tasmanian Bushfires: December 2018 and January 2019,838,1,1,0,1,C/D,2018-12-28,2018
+Derwent Valley,Tasmania,AGRN 1227 - Southern Tasmania Bushfires (commencing 4 December 2025),1227,1,1,1,0,C/D,2025-12-04,2025
+Flinders,Tasmania,Tasmanian Bushfires: 16 November 2019 onwards,913,1,1,0,0,A/B,2019-11-16,2019
+Glamorgan-Spring Bay,Tasmania,Bushfires: January 2013,537,0,0,0,0,unknown,2013-01-01,2013
+Glamorgan-Spring Bay,Tasmania,Tasmanian Bushfires: 16 November 2019 onwards,913,1,1,0,0,A/B,2019-11-16,2019
+Glamorgan-Spring Bay,Tasmania,AGRN 1227 - Southern Tasmania Bushfires (commencing 4 December 2025),1227,1,1,1,0,C/D,2025-12-04,2025
+Glenorchy,Tasmania,Molesworth bushfire: 6 February 2013,548,0,0,0,0,unknown,2013-02-06,2013
+Glenorchy,Tasmania,AGRN 1227 - Southern Tasmania Bushfires (commencing 4 December 2025),1227,1,1,1,0,C/D,2025-12-04,2025
+Huon Valley,Tasmania,Tasmanian Bushfires: December 2018 and January 2019,838,1,1,0,1,C/D,2018-12-28,2018
+Huon Valley,Tasmania,AGRN 1227 - Southern Tasmania Bushfires (commencing 4 December 2025),1227,0,1,1,0,C/D,2025-12-04,2025
+Kentish,Tasmania,North West Tasmanian Bushfires: January 2016,709,0,0,0,0,unknown,2016-01-13,2016
+Kentish,Tasmania,AGRN 1187 - Tasmanian West Coast Fires (February 2025),1187,1,1,0,1,C/D,2025-02-03,2025
+Meander Valley,Tasmania,North West Tasmanian Bushfires: January 2016,709,0,0,0,0,unknown,2016-01-13,2016
+Meander Valley,Tasmania,AGRN 1187 - Tasmanian West Coast Fires (February 2025),1187,1,1,0,1,C/D,2025-02-03,2025
+Sorell,Tasmania,Bushfires: January 2013,537,0,0,0,0,unknown,2013-01-01,2013
+Southern Midlands,Tasmania,Tasmanian Bushfires: 16 November 2019 onwards,913,1,1,0,0,A/B,2019-11-16,2019
+Southern Midlands,Tasmania,AGRN 1227 - Southern Tasmania Bushfires (commencing 4 December 2025),1227,1,1,1,0,C/D,2025-12-04,2025
+Tasman,Tasmania,Bushfires: January 2013,537,0,0,0,0,unknown,2013-01-01,2013
+Waratah-Wynyard,Tasmania,North West Tasmanian Bushfires: January 2016,709,0,0,0,0,unknown,2016-01-13,2016
+Waratah-Wynyard,Tasmania,AGRN 1187 - Tasmanian West Coast Fires (February 2025),1187,1,1,0,1,C/D,2025-02-03,2025
+West Coast,Tasmania,North West Tasmanian Bushfires: January 2016,709,0,0,0,0,unknown,2016-01-13,2016
+West Coast,Tasmania,Tasmanian Bushfires: December 2018 and January 2019,838,1,1,0,1,C/D,2018-12-28,2018
+West Coast,Tasmania,AGRN 1187 - Tasmanian West Coast Fires (February 2025),1187,1,1,0,1,C/D,2025-02-03,2025
+Alice Springs,Northern Territory,Northern Territory-Central Australian bushfires: August 2011,459,0,0,0,0,unknown,2011-08-01,2011
+Alice Springs,Northern Territory,AGRN 1068 - Southern Region Bushfire (August 2023 onwards),1068,1,1,0,0,A/B,2023-08-01,2023
+Barkly,Northern Territory,Northern Territory-Central Australian bushfires: August 2011,459,0,0,0,0,unknown,2011-08-01,2011
+Barkly,Northern Territory,AGRN 1068 - Southern Region Bushfire (August 2023 onwards),1068,1,1,0,0,A/B,2023-08-01,2023
+Belyuen,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+Central Desert,Northern Territory,Northern Territory-Central Australian bushfires: August 2011,459,0,0,0,0,unknown,2011-08-01,2011
+Central Desert,Northern Territory,AGRN 1068 - Southern Region Bushfire (August 2023 onwards),1068,1,1,0,0,A/B,2023-08-01,2023
+Coomalie,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+Darwin,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+East Arnhem,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+Katherine,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+Litchfield,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+MacDonnell,Northern Territory,Northern Territory-Central Australian bushfires: August 2011,459,0,0,0,0,unknown,2011-08-01,2011
+MacDonnell,Northern Territory,AGRN 1068 - Southern Region Bushfire (August 2023 onwards),1068,1,1,0,0,A/B,2023-08-01,2023
+Palmerston,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+Roper Gulf,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+Roper Gulf,Northern Territory,AGRN 1068 - Southern Region Bushfire (August 2023 onwards),1068,1,1,0,0,A/B,2023-08-01,2023
+Victoria Daly,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+Victoria Daly,Northern Territory,AGRN 1068 - Southern Region Bushfire (August 2023 onwards),1068,1,1,0,0,A/B,2023-08-01,2023
+Wagait,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+West Arnhem,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+West Daly,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+Unincorporated NT,Northern Territory,AGRN 935 - Northern Territory Bushfires (1 August - 19 September 2020),935,1,1,0,0,A/B,2020-08-01,2020
+Unincorporated ACT,Australian Capital Territory,Bushfire - Potters Hill: 18-20 March 2018,817,0,1,0,0,A/B,2018-03-18,2018
+Unincorporated ACT,Australian Capital Territory,Australian Capital Territory Bushfires: December 2019 - February 2020,897,1,1,0,0,A/B,2019-12-01,2019

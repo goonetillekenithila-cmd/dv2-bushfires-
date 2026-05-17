@@ -1,0 +1,52 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 560,
+  "background": "transparent",
+  "projection": {"type": "mercator", "center": [134, -29.5], "scale": 780},
+  "layer": [
+    {
+      "data": {
+        "url": "data/states.topo.json",
+        "format": {"type": "topojson", "feature": "states"}
+      },
+      "transform": [
+        {
+          "lookup": "properties.state",
+          "from": {
+            "data": {"url": "data/state_summary.csv"},
+            "key": "state",
+            "fields": ["activations", "unique_lgas", "unique_events", "first_year", "last_year"]
+          }
+        }
+      ],
+      "mark": {"type": "geoshape", "stroke": "#ffffff", "strokeWidth": 1.2},
+      "encoding": {
+        "color": {
+          "field": "activations",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [25, 50, 100, 200],
+            "range": ["#fbe7d4", "#f4b78c", "#e07a4b", "#c0392b", "#7a1d11"]
+          },
+          "legend": {
+            "title": "Bushfire activations",
+            "orient": "right",
+            "labelFontSize": 11,
+            "titleFontSize": 12
+          }
+        },
+        "tooltip": [
+          {"field": "properties.state", "type": "nominal", "title": "State"},
+          {"field": "activations", "type": "quantitative", "title": "Total activations"},
+          {"field": "unique_lgas", "type": "quantitative", "title": "LGAs affected"},
+          {"field": "unique_events", "type": "quantitative", "title": "Distinct fire events"},
+          {"field": "first_year", "type": "quantitative", "title": "First on record"},
+          {"field": "last_year", "type": "quantitative", "title": "Most recent"}
+        ]
+      }
+    }
+  ],
+  "config": {"view": {"stroke": null}}
+}

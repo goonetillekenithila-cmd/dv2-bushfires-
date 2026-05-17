@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A continent that burns — Australian bushfire history</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/pure-min.css">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/grids-responsive-min.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="page">
+
+    <header class="section">
+      <h1>A continent that burns</h1>
+      <p class="subtitle">Where Australians pay for fire — a story of disaster recovery, 2009 to 2026</p>
+      <p style="margin-top: 20px; max-width: 720px;">
+        Every bushfire in Australia leaves a financial scar. When fire damages homes, businesses,
+        and infrastructure, the federal government activates Disaster Recovery Funding Arrangements
+        to help communities rebuild. This is a map of who has paid the price.
+      </p>
+    </header>
+
+    <section class="section">
+      <div class="section-header">
+        <div class="section-number">01 — Opening hook</div>
+        <h2>Every Australian community hit by bushfire</h2>
+        <p>Each shaded area is a Local Government Area where federal disaster recovery funding has been activated for a bushfire since 2009. Darker shades indicate more frequent activations.</p>
+      </div>
+      <div class="chart-row">
+        <div class="chart-container">
+          <div id="opening_hook"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <div class="section-number">02 — When bushfires strike</div>
+        <h2>The seasonality and rhythm of fire</h2>
+        <p>Bushfires aren't random. They follow a season, and that season is getting longer.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <div class="section-number">03 — Where bushfires strike</div>
+        <h2>The geography of Australian bushfire</h2>
+        <p>Some regions burn repeatedly; others almost never.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <div class="section-number">04 — The cost</div>
+        <h2>The price communities pay</h2>
+        <p>The dollars and the categories — who gets the most, and for what.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <div class="section-number">05 — The pattern</div>
+        <h2>Trends, outliers, and what's next</h2>
+        <p>Are bushfires becoming more frequent? Where is the next decade likely to hurt?</p>
+      </div>
+    </section>
+
+    <footer class="section metadata">
+      <p><strong>Data sources:</strong></p>
+      <p>
+        Disaster Recovery Funding Arrangements activation history by location.
+        Australian Government, National Emergency Management Agency, accessed via
+        <a href="https://data.gov.au/data/dataset/drfa-activation-history-by-lga">data.gov.au</a>.
+      </p>
+      <p>
+        Local Government Area boundaries, derived from Australian Bureau of Statistics 2016 data,
+        published as TopoJSON by Michael Byrne on
+        <a href="https://gist.github.com/MichaelByrneAU/5d6e5ed6aa8cbb7078b017c7eeaec7e2">GitHub</a>.
+      </p>
+      <p style="margin-top: 20px;">
+        Created by Nithila Goonetilleke for FIT2179 Data Visualisation, Monash University, 2026.
+      </p>
+    </footer>
+
+  </div>
+
+  <script src="js/vega_lite_vis.js"></script>
+</body>
+</html>
