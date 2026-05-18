@@ -1,16 +1,16 @@
-lga,pre_2020,post_2020,total
-Mid-Coast,12,5,17.0
-Singleton,11,4,15.0
-Port Macquarie-Hastings,12,2,14.0
-Cessnock,10,3,13.0
-Muswellbrook,9,4,13.0
-Kempsey,10,3,13.0
-Clarence Valley,9,4,13.0
-Tenterfield,7,5,12.0
-Narrabri,8,4,12.0
-Upper Hunter,7,5,12.0
-Mid-Western,5,7,12.0
-Wellington,9,2,11.0
-Lithgow,6,4,10.0
-East Gippsland,8,2,10.0
-Gwydir,6,3,9.0
+lga,pre_2020,post_2020,total,sort_order
+Mid-Coast,12,5,17,1
+Singleton,11,4,15,2
+Port Macquarie-Hastings,12,2,14,3
+Cessnock,10,3,13,4
+Muswellbrook,9,4,13,5
+Kempsey,10,3,13,6
+Clarence Valley,9,4,13,7
+Tenterfield,7,5,12,8
+Narrabri,8,4,12,9
+Upper Hunter,7,5,12,10
+Mid-Western,5,7,12,11
+Wellington,9,2,11,12
+Lithgow,6,4,10,13
+East Gippsland,8,2,10,14
+Gwydir,6,3,9,15

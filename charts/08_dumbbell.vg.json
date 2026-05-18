@@ -38,11 +38,23 @@
           "field": "lga",
           "type": "nominal",
           "title": null,
-          "sort": {
-            "field": "total",
-            "op": "max",
-            "order": "descending"
-          },
+          "sort": [
+            "Mid-Coast",
+            "Singleton",
+            "Port Macquarie-Hastings",
+            "Cessnock",
+            "Muswellbrook",
+            "Kempsey",
+            "Clarence Valley",
+            "Tenterfield",
+            "Narrabri",
+            "Upper Hunter",
+            "Mid-Western",
+            "Wellington",
+            "Lithgow",
+            "East Gippsland",
+            "Gwydir"
+          ],
           "axis": {
             "labelFontSize": 12,
             "labelLimit": 200
@@ -79,11 +91,23 @@
         "y": {
           "field": "lga",
           "type": "nominal",
-          "sort": {
-            "field": "total",
-            "op": "max",
-            "order": "descending"
-          }
+          "sort": [
+            "Mid-Coast",
+            "Singleton",
+            "Port Macquarie-Hastings",
+            "Cessnock",
+            "Muswellbrook",
+            "Kempsey",
+            "Clarence Valley",
+            "Tenterfield",
+            "Narrabri",
+            "Upper Hunter",
+            "Mid-Western",
+            "Wellington",
+            "Lithgow",
+            "East Gippsland",
+            "Gwydir"
+          ]
         },
         "x": {
           "field": "activations",
