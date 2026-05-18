@@ -18,11 +18,7 @@
           "field": "category",
           "type": "nominal",
           "title": null,
-          "sort": {
-            "field": "order",
-            "op": "max",
-            "order": "ascending"
-          },
+          "sort": "-x",
           "axis": {
             "labelFontSize": 12,
             "labelLimit": 280
@@ -83,11 +79,7 @@
         "y": {
           "field": "category",
           "type": "nominal",
-          "sort": {
-            "field": "order",
-            "op": "max",
-            "order": "ascending"
-          }
+          "sort": "-x"
         },
         "x": {
           "field": "activations",

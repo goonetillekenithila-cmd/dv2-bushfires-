@@ -87,13 +87,14 @@
       <div class="chart-row" style="margin-top: 40px;">
         <div class="chart-container">
           <h3 style="margin-bottom: 16px;">How often each recovery category is activated</h3>
+          <p style="font-size: 14px; color: #666; margin-bottom: 16px;">A single activation can include multiple categories — Cat A and Cat B together cover the vast majority of activations, while Cat C and D recovery measures are reserved for the most severe events.</p>
           <div id="drfa_categories"></div>
         </div>
       </div>
       <div class="chart-row" style="margin-top: 40px;">
         <div class="chart-container">
           <h3 style="margin-bottom: 16px;">Severity of activations by state</h3>
-          <p style="font-size: 14px; color: #666; margin-bottom: 16px;">A/B activations cover personal hardship and essential local government works. C/D activations indicate exceptional, often catastrophic, recovery needs.</p>
+          <p style="font-size: 14px; color: #666; margin-bottom: 16px;">Of the activations classified in the government data, A/B indicates personal hardship and essential works, while C/D indicates exceptional recovery for catastrophic events. Roughly half of all bushfire activation records do not have a severity classification in the source data and are not shown here.</p>
           <div id="severity_state"></div>
         </div>
       </div>
@@ -103,7 +104,28 @@
       <div class="section-header">
         <div class="section-number">05 — The pattern</div>
         <h2>Trends, outliers, and what's next</h2>
-        <p>Are bushfires becoming more frequent? Where is the next decade likely to hurt?</p>
+        <p>The big picture: where are the heaviest burdens shifting over time, which single events shaped this decade, and where does the long arc of bushfire recovery actually point?</p>
+      </div>
+      <div class="chart-row">
+        <div class="chart-container">
+          <h3 style="margin-bottom: 16px;">Before and after 2020: the hardest-hit LGAs</h3>
+          <p style="font-size: 14px; color: #666; margin-bottom: 16px;">For the fifteen most-activated LGAs, comparing the decade up to 2019 against the years since. For most, the post-2020 share is lower — but no LGA has dropped to zero.</p>
+          <div id="dumbbell"></div>
+        </div>
+      </div>
+      <div class="chart-row" style="margin-top: 40px;">
+        <div class="chart-container">
+          <h3 style="margin-bottom: 16px;">The ten widest-reaching bushfire events</h3>
+          <p style="font-size: 14px; color: #666; margin-bottom: 16px;">Ranked by the number of LGAs affected. The 2013 state-wide NSW bushfires and the 2019 Black Summer reach more than fifty LGAs each — events on a continental scale.</p>
+          <div id="top_events"></div>
+        </div>
+      </div>
+      <div class="chart-row" style="margin-top: 40px;">
+        <div class="chart-container">
+          <h3 style="margin-bottom: 16px;">The long arc: cumulative activations by state</h3>
+          <p style="font-size: 14px; color: #666; margin-bottom: 16px;">Cumulative bushfire activations stacked by state. New South Wales drives the rise. The step-ups around 2013, 2019, and 2023 mark the worst fire seasons on record.</p>
+          <div id="cumulative_area"></div>
+        </div>
       </div>
     </section>
 

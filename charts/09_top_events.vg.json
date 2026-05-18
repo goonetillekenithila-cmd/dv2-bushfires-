@@ -1,0 +1,117 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 420,
+  "background": "transparent",
+  "data": {
+    "url": "data/top_events.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "color": "#e07a4b",
+        "height": 2,
+        "tooltip": false
+      },
+      "encoding": {
+        "y": {
+          "field": "event_short",
+          "type": "nominal",
+          "title": null,
+          "sort": "-x",
+          "axis": {
+            "labelFontSize": 12,
+            "labelLimit": 360
+          }
+        },
+        "x": {
+          "field": "lgas_affected",
+          "type": "quantitative",
+          "title": "Number of LGAs affected",
+          "scale": {
+            "domain": [
+              0,
+              70
+            ]
+          },
+          "axis": {
+            "grid": true,
+            "gridOpacity": 0.2,
+            "tickCount": 7
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 280,
+        "color": "#7a1d11"
+      },
+      "encoding": {
+        "y": {
+          "field": "event_short",
+          "type": "nominal",
+          "sort": "-x"
+        },
+        "x": {
+          "field": "lgas_affected",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "event_short",
+            "type": "nominal",
+            "title": "Event"
+          },
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year"
+          },
+          {
+            "field": "lgas_affected",
+            "type": "quantitative",
+            "title": "LGAs affected"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 12,
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#7a1d11"
+      },
+      "encoding": {
+        "y": {
+          "field": "event_short",
+          "type": "nominal",
+          "sort": "-x"
+        },
+        "x": {
+          "field": "lgas_affected",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "lgas_affected",
+          "type": "quantitative"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelPadding": 6
+    }
+  }
+}

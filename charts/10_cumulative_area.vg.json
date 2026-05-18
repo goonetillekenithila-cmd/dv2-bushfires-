@@ -1,0 +1,132 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 380,
+  "background": "transparent",
+  "data": {
+    "url": "data/cumulative.csv"
+  },
+  "mark": {
+    "type": "area",
+    "interpolate": "monotone",
+    "opacity": 0.9
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "quantitative",
+      "title": null,
+      "scale": {
+        "domain": [
+          2009,
+          2026
+        ]
+      },
+      "axis": {
+        "labelFontSize": 11,
+        "format": "d",
+        "tickCount": 9,
+        "grid": false
+      }
+    },
+    "y": {
+      "field": "cumulative",
+      "type": "quantitative",
+      "title": "Cumulative bushfire activations",
+      "stack": "zero",
+      "axis": {
+        "labelFontSize": 11,
+        "titleFontSize": 12,
+        "grid": true,
+        "gridOpacity": 0.2
+      }
+    },
+    "color": {
+      "field": "state",
+      "type": "nominal",
+      "sort": [
+        "New South Wales",
+        "Victoria",
+        "Queensland",
+        "Tasmania",
+        "South Australia",
+        "Western Australia",
+        "Northern Territory",
+        "Australian Capital Territory"
+      ],
+      "scale": {
+        "domain": [
+          "New South Wales",
+          "Victoria",
+          "Queensland",
+          "Tasmania",
+          "South Australia",
+          "Western Australia",
+          "Northern Territory",
+          "Australian Capital Territory"
+        ],
+        "range": [
+          "#7a1d11",
+          "#c0392b",
+          "#e07a4b",
+          "#9b59b6",
+          "#f4b78c",
+          "#5d6d7e",
+          "#16a085",
+          "#bdc3c7"
+        ]
+      },
+      "legend": {
+        "title": "State",
+        "orient": "right",
+        "labelFontSize": 11,
+        "titleFontSize": 12
+      }
+    },
+    "order": {
+      "field": "state",
+      "type": "nominal",
+      "sort": [
+        "Australian Capital Territory",
+        "Northern Territory",
+        "Western Australia",
+        "South Australia",
+        "Tasmania",
+        "Queensland",
+        "Victoria",
+        "New South Wales"
+      ]
+    },
+    "tooltip": [
+      {
+        "field": "state",
+        "type": "nominal",
+        "title": "State"
+      },
+      {
+        "field": "year",
+        "type": "quantitative",
+        "title": "Year"
+      },
+      {
+        "field": "events",
+        "type": "quantitative",
+        "title": "New events that year"
+      },
+      {
+        "field": "cumulative",
+        "type": "quantitative",
+        "title": "Cumulative total"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false
+    }
+  }
+}

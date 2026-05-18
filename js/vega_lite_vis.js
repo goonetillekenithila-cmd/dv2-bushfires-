@@ -5,6 +5,9 @@ var state_small_multiples = "charts/04_state_small_multiples.vg.json";
 var top_lgas_lollipop = "charts/05_top_lgas_lollipop.vg.json";
 var drfa_categories = "charts/06_drfa_categories.vg.json";
 var severity_state = "charts/07_severity_state.vg.json";
+var dumbbell = "charts/08_dumbbell.vg.json";
+var top_events = "charts/09_top_events.vg.json";
+var cumulative_area = "charts/10_cumulative_area.vg.json";
 
 vegaEmbed("#opening_hook", opening_hook, { "actions": false }).catch(console.error);
 vegaEmbed("#seasonality_heatmap", seasonality_heatmap, { "actions": false }).catch(console.error);
@@ -13,3 +16,6 @@ vegaEmbed("#state_small_multiples", state_small_multiples, { "actions": false })
 vegaEmbed("#top_lgas_lollipop", top_lgas_lollipop, { "actions": false }).catch(console.error);
 vegaEmbed("#drfa_categories", drfa_categories, { "actions": false }).catch(console.error);
 vegaEmbed("#severity_state", severity_state, { "actions": false }).catch(console.error);
+vegaEmbed("#dumbbell", dumbbell, { "actions": false }).catch(console.error);
+vegaEmbed("#top_events", top_events, { "actions": false }).catch(console.error);
+vegaEmbed("#cumulative_area", cumulative_area, { "actions": false }).catch(console.error);

@@ -1,0 +1,143 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 480,
+  "background": "transparent",
+  "data": {
+    "url": "data/dumbbell.csv"
+  },
+  "transform": [
+    {
+      "fold": [
+        "pre_2020",
+        "post_2020"
+      ],
+      "as": [
+        "period",
+        "activations"
+      ]
+    },
+    {
+      "calculate": "datum.period == 'pre_2020' ? '2009\u20132019' : '2020 onwards'",
+      "as": "period_label"
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "data/dumbbell.csv"
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#bbb",
+        "height": 2,
+        "tooltip": false
+      },
+      "encoding": {
+        "y": {
+          "field": "lga",
+          "type": "nominal",
+          "title": null,
+          "sort": {
+            "field": "total",
+            "op": "max",
+            "order": "descending"
+          },
+          "axis": {
+            "labelFontSize": 12,
+            "labelLimit": 200
+          }
+        },
+        "x": {
+          "field": "pre_2020",
+          "type": "quantitative",
+          "title": "Bushfire activations",
+          "scale": {
+            "domain": [
+              0,
+              14
+            ]
+          },
+          "axis": {
+            "grid": true,
+            "gridOpacity": 0.2,
+            "tickCount": 7
+          }
+        },
+        "x2": {
+          "field": "post_2020"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 220,
+        "opacity": 0.95
+      },
+      "encoding": {
+        "y": {
+          "field": "lga",
+          "type": "nominal",
+          "sort": {
+            "field": "total",
+            "op": "max",
+            "order": "descending"
+          }
+        },
+        "x": {
+          "field": "activations",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "period_label",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "2009\u20132019",
+              "2020 onwards"
+            ],
+            "range": [
+              "#9b59b6",
+              "#c0392b"
+            ]
+          },
+          "legend": {
+            "title": "Period",
+            "orient": "top",
+            "labelFontSize": 12,
+            "titleFontSize": 12,
+            "symbolSize": 200
+          }
+        },
+        "tooltip": [
+          {
+            "field": "lga",
+            "type": "nominal",
+            "title": "LGA"
+          },
+          {
+            "field": "period_label",
+            "type": "nominal",
+            "title": "Period"
+          },
+          {
+            "field": "activations",
+            "type": "quantitative",
+            "title": "Activations"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelPadding": 6
+    }
+  }
+}
