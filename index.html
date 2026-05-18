@@ -32,7 +32,7 @@
       <div class="section-header">
         <div class="section-number">01 — Opening hook</div>
         <h2>Every Australian community hit by bushfire</h2>
-        <p>Each shaded area is a Local Government Area where federal disaster recovery funding has been activated for a bushfire since 2009. Darker shades indicate more frequent activations.</p>
+        <p>Each shaded state shows the total number of bushfire activations of federal disaster recovery funding since 2009. New South Wales alone accounts for nearly half of all activations.</p>
       </div>
       <div class="chart-row">
         <div class="chart-container">
@@ -42,23 +42,33 @@
     </section>
 
     <section class="section">
-        <div class="section-header">
-            <div class="section-number">02 — When bushfires strike</div>
-            <h2>The seasonality and rhythm of fire</h2>
-            <p>Bushfire activations cluster in the southern summer — October through February. Years like 2012, 2019, and 2023 saw spikes far beyond the baseline; recent years suggest the season may be intensifying.</p>
+      <div class="section-header">
+        <div class="section-number">02 — When bushfires strike</div>
+        <h2>The seasonality and rhythm of fire</h2>
+        <p>Bushfire activations cluster in the southern summer — October through February. Years like 2012, 2019, 2023, and 2025 saw spikes far beyond the baseline; recent years suggest the season may be intensifying.</p>
+      </div>
+      <div class="chart-row">
+        <div class="chart-container">
+          <div id="seasonality_heatmap"></div>
         </div>
-        <div class="chart-row">
-            <div class="chart-container">
-                <div id="seasonality_heatmap"></div>
-            </div>
+      </div>
+      <div class="chart-row" style="margin-top: 32px;">
+        <div class="chart-container">
+          <div id="yearly_bars"></div>
         </div>
+      </div>
     </section>
 
     <section class="section">
       <div class="section-header">
         <div class="section-number">03 — Where bushfires strike</div>
         <h2>The geography of Australian bushfire</h2>
-        <p>Some regions burn repeatedly; others almost never.</p>
+        <p>Bushfire is not evenly shared across Australia. New South Wales bears the heaviest burden by a wide margin, with Queensland's exposure growing sharply in recent years. The small states see occasional but rarely concentrated activity.</p>
+      </div>
+      <div class="chart-row">
+        <div class="chart-container">
+          <div id="state_small_multiples"></div>
+        </div>
       </div>
     </section>
 
@@ -66,7 +76,26 @@
       <div class="section-header">
         <div class="section-number">04 — The cost</div>
         <h2>The price communities pay</h2>
-        <p>The dollars and the categories — who gets the most, and for what.</p>
+        <p>Disaster recovery funding has four tiers — from immediate personal hardship payments (Cat A) to exceptional recovery measures for catastrophic events (Cat D). Some local government areas have been activated more than a dozen times since 2009.</p>
+      </div>
+      <div class="chart-row">
+        <div class="chart-container">
+          <h3 style="margin-bottom: 16px;">The ten hardest-hit local government areas</h3>
+          <div id="top_lgas_lollipop"></div>
+        </div>
+      </div>
+      <div class="chart-row" style="margin-top: 40px;">
+        <div class="chart-container">
+          <h3 style="margin-bottom: 16px;">How often each recovery category is activated</h3>
+          <div id="drfa_categories"></div>
+        </div>
+      </div>
+      <div class="chart-row" style="margin-top: 40px;">
+        <div class="chart-container">
+          <h3 style="margin-bottom: 16px;">Severity of activations by state</h3>
+          <p style="font-size: 14px; color: #666; margin-bottom: 16px;">A/B activations cover personal hardship and essential local government works. C/D activations indicate exceptional, often catastrophic, recovery needs.</p>
+          <div id="severity_state"></div>
+        </div>
       </div>
     </section>
 
@@ -86,7 +115,7 @@
         <a href="https://data.gov.au/data/dataset/drfa-activation-history-by-lga">data.gov.au</a>.
       </p>
       <p>
-         Australian state and territory boundaries, derived from Australian Bureau of Statistics 2016 boundary data via
+        Australian state and territory boundaries, derived from Australian Bureau of Statistics 2016 boundary data via
         <a href="https://gist.github.com/MichaelByrneAU/5d6e5ed6aa8cbb7078b017c7eeaec7e2">Michael Byrne's TopoJSON</a>,
         simplified for this project.
       </p>

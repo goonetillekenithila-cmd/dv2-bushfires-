@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "data": {"url": "data/state_year_events.csv"},
+  "columns": 2,
+  "facet": {
+    "field": "state",
+    "type": "nominal",
+    "title": null,
+    "sort": {"field": "events", "op": "sum", "order": "descending"},
+    "header": {"labelFontSize": 13, "labelFontWeight": "bold", "labelAnchor": "start", "labelPadding": 6}
+  },
+  "spec": {
+    "width": 420,
+    "height": 110,
+    "mark": {"type": "bar", "cornerRadiusTopLeft": 2, "cornerRadiusTopRight": 2},
+    "encoding": {
+      "x": {
+        "field": "year",
+        "type": "ordinal",
+        "title": null,
+        "axis": {
+          "labelFontSize": 10,
+          "labelAngle": 0,
+          "values": ["2009", "2012", "2015", "2018", "2021", "2024"]
+        }
+      },
+      "y": {
+        "field": "events",
+        "type": "quantitative",
+        "title": null,
+        "axis": {"labelFontSize": 10, "grid": true, "gridOpacity": 0.2, "tickCount": 4}
+      },
+      "color": {
+        "field": "events",
+        "type": "quantitative",
+        "scale": {
+          "type": "threshold",
+          "domain": [3, 8, 15, 25],
+          "range": ["#f4b78c", "#e07a4b", "#c0392b", "#7a1d11", "#4a0f08"]
+        },
+        "legend": null
+      },
+      "tooltip": [
+        {"field": "state", "type": "nominal", "title": "State"},
+        {"field": "year", "type": "ordinal", "title": "Year"},
+        {"field": "events", "type": "quantitative", "title": "New events"}
+      ]
+    }
+  },
+  "resolve": {"axis": {"x": "independent"}},
+  "config": {"view": {"stroke": null}, "axis": {"domain": false, "ticks": false}}
+}

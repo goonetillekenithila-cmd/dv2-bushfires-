@@ -1,0 +1,22 @@
+state,severity,activations
+Australian Capital Territory,A/B,2
+New South Wales,A/B,181
+New South Wales,C/D,50
+New South Wales,unknown,205
+Northern Territory,A/B,19
+Northern Territory,unknown,4
+Queensland,A/B,65
+Queensland,C/D,39
+Queensland,unknown,46
+South Australia,A/B,2
+South Australia,C/D,9
+South Australia,unknown,26
+Tasmania,A/B,7
+Tasmania,C/D,14
+Tasmania,unknown,13
+Victoria,A/B,26
+Victoria,C/D,57
+Victoria,unknown,98
+Western Australia,A/B,6
+Western Australia,C/D,2
+Western Australia,unknown,17

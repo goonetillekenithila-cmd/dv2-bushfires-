@@ -7,11 +7,10 @@
   "mark": {"type": "rect", "stroke": "white", "strokeWidth": 1.5},
   "encoding": {
     "x": {
-      "field": "date",
-      "timeUnit": "year",
+      "field": "year",
       "type": "ordinal",
       "title": null,
-      "axis": {"labelFontSize": 12, "labelAngle": 0, "format": "%Y"}
+      "axis": {"labelFontSize": 12, "labelAngle": 0}
     },
     "y": {
       "field": "date",

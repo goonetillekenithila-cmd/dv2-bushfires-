@@ -1,0 +1,113 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 240,
+  "background": "transparent",
+  "data": {
+    "url": "data/cat_totals.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "cornerRadiusTopRight": 3,
+        "cornerRadiusBottomRight": 3
+      },
+      "encoding": {
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "title": null,
+          "sort": {
+            "field": "order",
+            "op": "max",
+            "order": "ascending"
+          },
+          "axis": {
+            "labelFontSize": 12,
+            "labelLimit": 280
+          }
+        },
+        "x": {
+          "field": "activations",
+          "type": "quantitative",
+          "title": "Number of activations",
+          "axis": {
+            "grid": true,
+            "gridOpacity": 0.2
+          }
+        },
+        "color": {
+          "field": "category",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Cat A (Personal hardship)",
+              "Cat B (Personal/Local govt)",
+              "Cat C (Community recovery)",
+              "Cat D (Exceptional events)"
+            ],
+            "range": [
+              "#f4b78c",
+              "#e07a4b",
+              "#c0392b",
+              "#7a1d11"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "category",
+            "type": "nominal",
+            "title": "Category"
+          },
+          {
+            "field": "activations",
+            "type": "quantitative",
+            "title": "Activations"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 6,
+        "fontSize": 12,
+        "fontWeight": "bold",
+        "color": "#444"
+      },
+      "encoding": {
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": {
+            "field": "order",
+            "op": "max",
+            "order": "ascending"
+          }
+        },
+        "x": {
+          "field": "activations",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "activations",
+          "type": "quantitative"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelPadding": 6
+    }
+  }
+}

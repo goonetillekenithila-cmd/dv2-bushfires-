@@ -1,0 +1,117 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 380,
+  "background": "transparent",
+  "data": {
+    "url": "data/top_lgas.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "color": "#e07a4b",
+        "height": 2,
+        "tooltip": false
+      },
+      "encoding": {
+        "y": {
+          "field": "lga",
+          "type": "nominal",
+          "title": null,
+          "sort": "-x",
+          "axis": {
+            "labelFontSize": 12,
+            "labelLimit": 200
+          }
+        },
+        "x": {
+          "field": "activations",
+          "type": "quantitative",
+          "title": "Bushfire activations",
+          "scale": {
+            "domain": [
+              0,
+              20
+            ]
+          },
+          "axis": {
+            "grid": true,
+            "gridOpacity": 0.2,
+            "tickCount": 5
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 280,
+        "color": "#7a1d11"
+      },
+      "encoding": {
+        "y": {
+          "field": "lga",
+          "type": "nominal",
+          "sort": "-x"
+        },
+        "x": {
+          "field": "activations",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "lga",
+            "type": "nominal",
+            "title": "LGA"
+          },
+          {
+            "field": "state",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "activations",
+            "type": "quantitative",
+            "title": "Activations"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 12,
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#7a1d11"
+      },
+      "encoding": {
+        "y": {
+          "field": "lga",
+          "type": "nominal",
+          "sort": "-x"
+        },
+        "x": {
+          "field": "activations",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "activations",
+          "type": "quantitative"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelPadding": 6
+    }
+  }
+}

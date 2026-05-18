@@ -1,0 +1,138 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 280,
+  "background": "transparent",
+  "data": {
+    "url": "data/severity_state.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "stroke": "white",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "y": {
+          "field": "state",
+          "type": "nominal",
+          "title": null,
+          "sort": {
+            "field": "activations",
+            "op": "sum",
+            "order": "descending"
+          },
+          "axis": {
+            "labelFontSize": 12
+          }
+        },
+        "x": {
+          "field": "severity",
+          "type": "nominal",
+          "title": null,
+          "sort": [
+            "A/B",
+            "C/D",
+            "unknown"
+          ],
+          "axis": {
+            "labelFontSize": 12,
+            "orient": "top"
+          }
+        },
+        "color": {
+          "field": "activations",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [
+              10,
+              30,
+              70,
+              150
+            ],
+            "range": [
+              "#fbe7d4",
+              "#f4b78c",
+              "#e07a4b",
+              "#c0392b",
+              "#7a1d11"
+            ]
+          },
+          "legend": {
+            "title": "Activations",
+            "orient": "right",
+            "labelFontSize": 11,
+            "titleFontSize": 12
+          }
+        },
+        "tooltip": [
+          {
+            "field": "state",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "severity",
+            "type": "nominal",
+            "title": "Severity"
+          },
+          {
+            "field": "activations",
+            "type": "quantitative",
+            "title": "Activations"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 12,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "y": {
+          "field": "state",
+          "type": "nominal",
+          "sort": {
+            "field": "activations",
+            "op": "sum",
+            "order": "descending"
+          }
+        },
+        "x": {
+          "field": "severity",
+          "type": "nominal",
+          "sort": [
+            "A/B",
+            "C/D",
+            "unknown"
+          ]
+        },
+        "text": {
+          "field": "activations",
+          "type": "quantitative"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.activations > 70",
+            "value": "white"
+          },
+          "value": "#333"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelPadding": 6
+    }
+  }
+}
