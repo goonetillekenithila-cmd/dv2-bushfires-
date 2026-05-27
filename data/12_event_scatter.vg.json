@@ -1,0 +1,126 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 380,
+  "background": "transparent",
+  "data": {
+    "url": "data/event_scatter.csv"
+  },
+  "mark": {
+    "type": "circle",
+    "opacity": 0.7,
+    "stroke": "white",
+    "strokeWidth": 0.5
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "quantitative",
+      "title": null,
+      "scale": {
+        "domain": [
+          2008,
+          2027
+        ]
+      },
+      "axis": {
+        "labelFontSize": 11,
+        "format": "d",
+        "tickCount": 10,
+        "grid": false
+      }
+    },
+    "y": {
+      "field": "lgas",
+      "type": "quantitative",
+      "title": "Local government areas affected by the event",
+      "scale": {
+        "domain": [
+          0,
+          66
+        ]
+      },
+      "axis": {
+        "labelFontSize": 11,
+        "titleFontSize": 12,
+        "grid": true,
+        "gridOpacity": 0.2
+      }
+    },
+    "size": {
+      "field": "lgas",
+      "type": "quantitative",
+      "scale": {
+        "range": [
+          40,
+          700
+        ]
+      },
+      "legend": null
+    },
+    "color": {
+      "field": "state",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "New South Wales",
+          "Victoria",
+          "Queensland",
+          "South Australia",
+          "Tasmania",
+          "Western Australia",
+          "Northern Territory",
+          "Australian Capital Territory"
+        ],
+        "range": [
+          "#7a1d11",
+          "#c0392b",
+          "#e07a4b",
+          "#f4b78c",
+          "#9b59b6",
+          "#5d6d7e",
+          "#16a085",
+          "#bdc3c7"
+        ]
+      },
+      "legend": {
+        "title": "Primary state",
+        "orient": "right",
+        "labelFontSize": 11,
+        "titleFontSize": 12
+      }
+    },
+    "tooltip": [
+      {
+        "field": "event_short",
+        "type": "nominal",
+        "title": "Event"
+      },
+      {
+        "field": "year",
+        "type": "quantitative",
+        "title": "Year"
+      },
+      {
+        "field": "lgas",
+        "type": "quantitative",
+        "title": "LGAs affected"
+      },
+      {
+        "field": "state",
+        "type": "nominal",
+        "title": "Primary state"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelPadding": 6
+    }
+  }
+}
