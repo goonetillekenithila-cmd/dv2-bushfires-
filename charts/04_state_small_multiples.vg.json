@@ -3,6 +3,7 @@
   "background": "transparent",
   "data": {"url": "data/state_year_events.csv"},
   "columns": 2,
+  "spacing": 60,
   "facet": {
     "field": "state",
     "type": "nominal",
@@ -11,8 +12,8 @@
     "header": {"labelFontSize": 13, "labelFontWeight": "bold", "labelAnchor": "start", "labelPadding": 6}
   },
   "spec": {
-    "width": 420,
-    "height": 110,
+    "width": 520,
+    "height": 120,
     "mark": {"type": "bar", "cornerRadiusTopLeft": 2, "cornerRadiusTopRight": 2},
     "encoding": {
       "x": {

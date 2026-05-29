@@ -3,50 +3,151 @@
   "width": "container",
   "height": 560,
   "background": "transparent",
-  "projection": {"type": "mercator", "center": [134, -29.5], "scale": 780},
+  "projection": {
+    "type": "mercator",
+    "center": [
+      134,
+      -29.5
+    ],
+    "scale": 780
+  },
+  "params": [
+    {
+      "name": "year_select",
+      "value": 2019,
+      "bind": {
+        "input": "range",
+        "min": 2009,
+        "max": 2026,
+        "step": 1,
+        "name": "Year:  "
+      }
+    }
+  ],
   "layer": [
     {
       "data": {
         "url": "data/states.topo.json",
-        "format": {"type": "topojson", "feature": "states"}
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#ececec",
+        "stroke": "#ffffff",
+        "strokeWidth": 1.2
+      }
+    },
+    {
+      "data": {
+        "url": "data/state_year_activations.csv"
       },
       "transform": [
         {
-          "lookup": "properties.state",
+          "filter": "datum.year == year_select"
+        },
+        {
+          "lookup": "state",
           "from": {
-            "data": {"url": "data/state_summary.csv"},
-            "key": "state",
-            "fields": ["activations", "unique_lgas", "unique_events", "first_year", "last_year"]
-          }
+            "data": {
+              "url": "data/states.topo.json",
+              "format": {
+                "type": "topojson",
+                "feature": "states"
+              }
+            },
+            "key": "properties.state"
+          },
+          "as": "geo"
         }
       ],
-      "mark": {"type": "geoshape", "stroke": "#ffffff", "strokeWidth": 1.2},
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#ffffff",
+        "strokeWidth": 1.2
+      },
       "encoding": {
+        "shape": {
+          "field": "geo",
+          "type": "geojson"
+        },
         "color": {
           "field": "activations",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [25, 50, 100, 200],
-            "range": ["#fbe7d4", "#f4b78c", "#e07a4b", "#c0392b", "#7a1d11"]
+            "domain": [
+              1,
+              10,
+              30,
+              70
+            ],
+            "range": [
+              "#fbe7d4",
+              "#f4b78c",
+              "#e07a4b",
+              "#c0392b",
+              "#7a1d11"
+            ]
           },
           "legend": {
-            "title": "Bushfire activations",
+            "title": "Activations in year",
             "orient": "right",
             "labelFontSize": 11,
-            "titleFontSize": 12
+            "titleFontSize": 12,
+            "titleLimit": 220
           }
         },
         "tooltip": [
-          {"field": "properties.state", "type": "nominal", "title": "State"},
-          {"field": "activations", "type": "quantitative", "title": "Total activations"},
-          {"field": "unique_lgas", "type": "quantitative", "title": "LGAs affected"},
-          {"field": "unique_events", "type": "quantitative", "title": "Distinct fire events"},
-          {"field": "first_year", "type": "quantitative", "title": "First on record"},
-          {"field": "last_year", "type": "quantitative", "title": "Most recent"}
+          {
+            "field": "state",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "activations",
+            "type": "quantitative",
+            "title": "Activations"
+          },
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year"
+          }
         ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/state_labels.csv"
+      },
+      "mark": {
+        "type": "text",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "fill": "#222"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "abbr",
+          "type": "nominal"
+        }
       }
     }
   ],
-  "config": {"view": {"stroke": null}}
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
 }

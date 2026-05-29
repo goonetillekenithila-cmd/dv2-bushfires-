@@ -80,7 +80,8 @@
         "title": "State",
         "orient": "right",
         "labelFontSize": 11,
-        "titleFontSize": 12
+        "titleFontSize": 12,
+        "titleLimit": 220
       }
     },
     "order": {
@@ -118,7 +119,14 @@
         "type": "quantitative",
         "title": "Cumulative total"
       }
-    ]
+    ],
+    "opacity": {
+      "condition": {
+        "param": "state_highlight",
+        "value": 0.95
+      },
+      "value": 0.18
+    }
   },
   "config": {
     "view": {
@@ -128,5 +136,17 @@
       "domain": false,
       "ticks": false
     }
-  }
+  },
+  "params": [
+    {
+      "name": "state_highlight",
+      "select": {
+        "type": "point",
+        "fields": [
+          "state"
+        ]
+      },
+      "bind": "legend"
+    }
+  ]
 }

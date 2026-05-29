@@ -1,0 +1,114 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 340,
+  "background": "transparent",
+  "data": {
+    "url": "data/disaster_share.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "area",
+        "color": "#e07a4b",
+        "opacity": 0.25,
+        "interpolate": "monotone"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "title": null,
+          "axis": {
+            "labelFontSize": 11,
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "bushfire_pct",
+          "type": "quantitative",
+          "title": "Bushfire share of all disaster activations (%)",
+          "scale": {
+            "domain": [
+              0,
+              60
+            ]
+          },
+          "axis": {
+            "labelFontSize": 11,
+            "titleFontSize": 12,
+            "grid": true,
+            "gridOpacity": 0.2
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "#7a1d11",
+        "strokeWidth": 2.5,
+        "interpolate": "monotone"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "bushfire_pct",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 70,
+        "color": "#7a1d11"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "bushfire_pct",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          {
+            "field": "bushfire_pct",
+            "type": "quantitative",
+            "title": "Bushfire share (%)"
+          },
+          {
+            "field": "bushfire",
+            "type": "quantitative",
+            "title": "Bushfire activations"
+          },
+          {
+            "field": "total",
+            "type": "quantitative",
+            "title": "All disaster activations"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelPadding": 6
+    }
+  }
+}

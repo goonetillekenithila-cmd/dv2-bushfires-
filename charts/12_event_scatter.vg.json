@@ -87,7 +87,8 @@
         "title": "Primary state",
         "orient": "right",
         "labelFontSize": 11,
-        "titleFontSize": 12
+        "titleFontSize": 12,
+        "titleLimit": 220
       }
     },
     "tooltip": [

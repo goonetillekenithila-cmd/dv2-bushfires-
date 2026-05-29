@@ -131,7 +131,8 @@
             "orient": "top",
             "labelFontSize": 12,
             "titleFontSize": 12,
-            "symbolSize": 200
+            "symbolSize": 200,
+            "titleLimit": 220
           }
         },
         "tooltip": [
