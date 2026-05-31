@@ -100,7 +100,7 @@
     {
       "transform": [
         {
-          "filter": "datum.annotation != ''"
+          "filter": "datum.annotation != '' && datum.annotation != null"
         }
       ],
       "mark": {
@@ -121,6 +121,50 @@
         "text": {
           "field": "annotation",
           "type": "nominal"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "#555",
+        "strokeDash": [
+          4,
+          4
+        ],
+        "strokeWidth": 1.5,
+        "interpolate": "step"
+      },
+      "encoding": {
+        "y": {
+          "field": "avg",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year == 2026"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "bottom",
+        "dx": -4,
+        "dy": -4,
+        "fontSize": 10,
+        "fontStyle": "italic",
+        "color": "#555"
+      },
+      "encoding": {
+        "y": {
+          "field": "avg",
+          "type": "quantitative"
+        },
+        "text": {
+          "value": "average: 14.5 events/year"
         }
       }
     }

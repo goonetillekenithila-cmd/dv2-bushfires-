@@ -1,10 +1,21 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": "container",
-  "height": 340,
+  "height": 360,
   "background": "transparent",
   "data": {
     "url": "data/disaster_share.csv"
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": null,
+      "axis": {
+        "labelFontSize": 11,
+        "labelAngle": 0
+      }
+    }
   },
   "layer": [
     {
@@ -15,15 +26,6 @@
         "interpolate": "monotone"
       },
       "encoding": {
-        "x": {
-          "field": "year",
-          "type": "ordinal",
-          "title": null,
-          "axis": {
-            "labelFontSize": 11,
-            "labelAngle": 0
-          }
-        },
         "y": {
           "field": "bushfire_pct",
           "type": "quantitative",
@@ -31,7 +33,7 @@
           "scale": {
             "domain": [
               0,
-              60
+              65
             ]
           },
           "axis": {
@@ -51,10 +53,6 @@
         "interpolate": "monotone"
       },
       "encoding": {
-        "x": {
-          "field": "year",
-          "type": "ordinal"
-        },
         "y": {
           "field": "bushfire_pct",
           "type": "quantitative"
@@ -68,10 +66,6 @@
         "color": "#7a1d11"
       },
       "encoding": {
-        "x": {
-          "field": "year",
-          "type": "ordinal"
-        },
         "y": {
           "field": "bushfire_pct",
           "type": "quantitative"
@@ -98,6 +92,33 @@
             "title": "All disaster activations"
           }
         ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.annotation != '' && datum.annotation != null"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "bottom",
+        "dy": -10,
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "fontStyle": "italic",
+        "color": "#7a1d11"
+      },
+      "encoding": {
+        "y": {
+          "field": "bushfire_pct",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "annotation",
+          "type": "nominal"
+        }
       }
     }
   ],

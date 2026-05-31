@@ -35,16 +35,25 @@
       "type": "quantitative",
       "title": "Local government areas affected by the event",
       "scale": {
+        "type": "log",
         "domain": [
-          0,
-          66
+          1,
+          70
         ]
       },
       "axis": {
         "labelFontSize": 11,
         "titleFontSize": 12,
         "grid": true,
-        "gridOpacity": 0.2
+        "gridOpacity": 0.2,
+        "values": [
+          1,
+          2,
+          5,
+          10,
+          20,
+          50
+        ]
       }
     },
     "size": {
